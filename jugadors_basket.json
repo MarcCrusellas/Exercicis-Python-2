@@ -1,0 +1,8274 @@
+[
+    {
+        "Name": "Adam Donachie",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 22.99
+    },
+    {
+        "Name": "Paul Bako",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 91.91,
+        "Age": 34.69
+    },
+    {
+        "Name": "Ramon Hernandez",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 30.78
+    },
+    {
+        "Name": "Kevin Millar",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 35.43
+    },
+    {
+        "Name": "Chris Gomez",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 80.37,
+        "Age": 35.71
+    },
+    {
+        "Name": "Brian Roberts",
+        "Team": "BAL",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 75.24,
+        "Age": 29.39
+    },
+    {
+        "Name": "Miguel Tejada",
+        "Team": "BAL",
+        "Position": "Ala-pivot",
+        "Heigth": 185.37,
+        "Weigth": 89.35,
+        "Age": 30.77
+    },
+    {
+        "Name": "Melvin Mora",
+        "Team": "BAL",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 35.07
+    },
+    {
+        "Name": "Aubrey Huff",
+        "Team": "BAL",
+        "Position": "Aler",
+        "Heigth": 204.17,
+        "Weigth": 98.75,
+        "Age": 30.19
+    },
+    {
+        "Name": "Adam Stern",
+        "Team": "BAL",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 27.05
+    },
+    {
+        "Name": "Jeff Fiorentino",
+        "Team": "BAL",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 80.37,
+        "Age": 23.88
+    },
+    {
+        "Name": "Freddie Bynum",
+        "Team": "BAL",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 26.96
+    },
+    {
+        "Name": "Nick Markakis",
+        "Team": "BAL",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 23.29
+    },
+    {
+        "Name": "Brandon Fahey",
+        "Team": "BAL",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 68.4,
+        "Age": 26.11
+    },
+    {
+        "Name": "Corey Patterson",
+        "Team": "BAL",
+        "Position": "Escorta",
+        "Heigth": 185.37,
+        "Weigth": 76.95,
+        "Age": 27.55
+    },
+    {
+        "Name": "Jay Payton",
+        "Team": "BAL",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 79.09,
+        "Age": 34.27
+    },
+    {
+        "Name": "Jay Gibbons",
+        "Team": "BAL",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 84.22,
+        "Age": 30.0
+    },
+    {
+        "Name": "Erik Bedard",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 80.8,
+        "Age": 27.99
+    },
+    {
+        "Name": "Hayden Penn",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 79.09,
+        "Age": 22.38
+    },
+    {
+        "Name": "Adam Loewen",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 93.62,
+        "Age": 22.89
+    },
+    {
+        "Name": "Daniel Cabrera",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 98.33,
+        "Age": 25.76
+    },
+    {
+        "Name": "Steve Trachsel",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 36.33
+    },
+    {
+        "Name": "Jaret Wright",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 98.33,
+        "Age": 31.17
+    },
+    {
+        "Name": "Kris Benson",
+        "Team": "BAL",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 83.36,
+        "Age": 32.31
+    },
+    {
+        "Name": "Scott Williamson",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 31.03
+    },
+    {
+        "Name": "John Parrish",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 82.08,
+        "Age": 29.26
+    },
+    {
+        "Name": "Danys Baez",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 29.47
+    },
+    {
+        "Name": "Chad Bradford",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 86.78,
+        "Age": 32.46
+    },
+    {
+        "Name": "Jamie Walker",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 35.67
+    },
+    {
+        "Name": "Brian Burres",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 77.81,
+        "Age": 25.89
+    },
+    {
+        "Name": "Kurt Birkins",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 80.37,
+        "Age": 26.55
+    },
+    {
+        "Name": "James Hoey",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 85.5,
+        "Age": 24.17
+    },
+    {
+        "Name": "Sendy Rleal",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 26.69
+    },
+    {
+        "Name": "Chris Ray",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 25.13
+    },
+    {
+        "Name": "Jeremy Guthrie",
+        "Team": "BAL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 27.9
+    },
+    {
+        "Name": "A.J. Pierzynski",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 104.74,
+        "Age": 30.17
+    },
+    {
+        "Name": "Toby Hall",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 102.6,
+        "Age": 31.36
+    },
+    {
+        "Name": "Paul Konerko",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 91.91,
+        "Age": 30.99
+    },
+    {
+        "Name": "Tadahito Iguchi",
+        "Team": "CWS",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 79.09,
+        "Age": 32.24
+    },
+    {
+        "Name": "Juan Uribe",
+        "Team": "CWS",
+        "Position": "Ala-pivot",
+        "Heigth": 190.75,
+        "Weigth": 74.81,
+        "Age": 27.61
+    },
+    {
+        "Name": "Alex Cintron",
+        "Team": "CWS",
+        "Position": "Ala-pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.07,
+        "Age": 28.2
+    },
+    {
+        "Name": "Joe Crede",
+        "Team": "CWS",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 28.85
+    },
+    {
+        "Name": "Josh Fields",
+        "Team": "CWS",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 24.21
+    },
+    {
+        "Name": "Ryan Sweeney",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 22.02
+    },
+    {
+        "Name": "Brian N. Anderson",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 24.97
+    },
+    {
+        "Name": "Luis Terrero",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 88.06,
+        "Age": 26.78
+    },
+    {
+        "Name": "Pablo Ozuna",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 79.52,
+        "Age": 32.51
+    },
+    {
+        "Name": "Scott Podsednik",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 80.37,
+        "Age": 30.95
+    },
+    {
+        "Name": "Jermaine Dye",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 33.09
+    },
+    {
+        "Name": "Darin Erstad",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 32.74
+    },
+    {
+        "Name": "Rob Mackowiak",
+        "Team": "CWS",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 83.36,
+        "Age": 30.69
+    },
+    {
+        "Name": "Jim Thome",
+        "Team": "CWS",
+        "Position": "Aler",
+        "Heigth": 204.17,
+        "Weigth": 104.31,
+        "Age": 36.51
+    },
+    {
+        "Name": "Jerry Owens",
+        "Team": "CWS",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 26.03
+    },
+    {
+        "Name": "Charlie Haeger",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 23.45
+    },
+    {
+        "Name": "Heath Phillips",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 24.94
+    },
+    {
+        "Name": "Gavin Floyd",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 90.63,
+        "Age": 24.09
+    },
+    {
+        "Name": "Jose Contreras",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 95.76,
+        "Age": 35.23
+    },
+    {
+        "Name": "Jon Garland",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 89.78,
+        "Age": 27.43
+    },
+    {
+        "Name": "Javier Vazquez",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 30.6
+    },
+    {
+        "Name": "Mark Buehrle",
+        "Team": "CWS",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 27.94
+    },
+    {
+        "Name": "Mike MacDougal",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 83.36,
+        "Age": 29.99
+    },
+    {
+        "Name": "David Aardsma",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 25.17
+    },
+    {
+        "Name": "Andrew Sisco",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 217.6,
+        "Weigth": 111.15,
+        "Age": 24.13
+    },
+    {
+        "Name": "Matt Thornton",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 97.47,
+        "Age": 30.46
+    },
+    {
+        "Name": "Bobby Jenks",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 115.42,
+        "Age": 25.96
+    },
+    {
+        "Name": "Boone Logan",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 22.55
+    },
+    {
+        "Name": "Sean Tracey",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 26.29
+    },
+    {
+        "Name": "Nick Masset",
+        "Team": "CWS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 81.23,
+        "Age": 24.79
+    },
+    {
+        "Name": "Jose Molina",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 31.74
+    },
+    {
+        "Name": "Jeff Mathis",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 23.92
+    },
+    {
+        "Name": "Mike Napoli",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 25.33
+    },
+    {
+        "Name": "Casey Kotchman",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 24.02
+    },
+    {
+        "Name": "Kendry Morales",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 94.05,
+        "Age": 23.7
+    },
+    {
+        "Name": "Shea Hillenbrand",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 90.2,
+        "Age": 31.59
+    },
+    {
+        "Name": "Robb Quinlan",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 29.95
+    },
+    {
+        "Name": "Howie Kendrick",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 23.64
+    },
+    {
+        "Name": "Orlando Cabrera",
+        "Team": "ANA",
+        "Position": "Ala-pivot",
+        "Heigth": 188.06,
+        "Weigth": 81.23,
+        "Age": 32.33
+    },
+    {
+        "Name": "Erick Aybar",
+        "Team": "ANA",
+        "Position": "Ala-pivot",
+        "Heigth": 188.06,
+        "Weigth": 72.67,
+        "Age": 23.13
+    },
+    {
+        "Name": "Dallas McPherson",
+        "Team": "ANA",
+        "Position": "Aler",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 26.6
+    },
+    {
+        "Name": "Maicer Izturis",
+        "Team": "ANA",
+        "Position": "Aler",
+        "Heigth": 182.68,
+        "Weigth": 66.26,
+        "Age": 26.46
+    },
+    {
+        "Name": "Reggie Willits",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 79.09,
+        "Age": 25.75
+    },
+    {
+        "Name": "Tommy Murphy",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 27.51
+    },
+    {
+        "Name": "Terry Evans",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 25.11
+    },
+    {
+        "Name": "Gary Matthews Jr.",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 32.51
+    },
+    {
+        "Name": "Garret Anderson",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 34.67
+    },
+    {
+        "Name": "Vladimir Guerrero",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 31.06
+    },
+    {
+        "Name": "Chone Figgins",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 182.68,
+        "Weigth": 68.4,
+        "Age": 29.1
+    },
+    {
+        "Name": "Juan Rivera",
+        "Team": "ANA",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 28.66
+    },
+    {
+        "Name": "John Lackey",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 100.46,
+        "Age": 28.35
+    },
+    {
+        "Name": "Bartolo Colon",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 106.88,
+        "Age": 33.77
+    },
+    {
+        "Name": "Kelvim Escobar",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 30.89
+    },
+    {
+        "Name": "Dustin Moseley",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 81.23,
+        "Age": 37.74
+    },
+    {
+        "Name": "Ervin Santana",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 68.4,
+        "Age": 24.14
+    },
+    {
+        "Name": "Joe Saunders",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 25.71
+    },
+    {
+        "Name": "Jered Weaver",
+        "Team": "ANA",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 87.64,
+        "Age": 24.41
+    },
+    {
+        "Name": "Chris Resop",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.91,
+        "Age": 24.32
+    },
+    {
+        "Name": "Phil Seibel",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 83.36,
+        "Age": 28.09
+    },
+    {
+        "Name": "Justin Speier",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 33.31
+    },
+    {
+        "Name": "Darren Oliver",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 36.4
+    },
+    {
+        "Name": "Hector Carrasco",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 37.36
+    },
+    {
+        "Name": "Scot Shields",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 72.67,
+        "Age": 31.61
+    },
+    {
+        "Name": "Francisco Rodriguez",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 25.14
+    },
+    {
+        "Name": "Greg Jones",
+        "Team": "ANA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 30.29
+    },
+    {
+        "Name": "Doug Mirabelli",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 94.05,
+        "Age": 36.37
+    },
+    {
+        "Name": "Jason Varitek",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 98.33,
+        "Age": 34.89
+    },
+    {
+        "Name": "George Kottaras",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 23.79
+    },
+    {
+        "Name": "Kevin Youkilis",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 94.05,
+        "Age": 27.96
+    },
+    {
+        "Name": "Dustin Pedroia",
+        "Team": "BOS",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 76.95,
+        "Age": 23.54
+    },
+    {
+        "Name": "Alex Cora",
+        "Team": "BOS",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 31.37
+    },
+    {
+        "Name": "Julio Lugo",
+        "Team": "BOS",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 72.67,
+        "Age": 31.29
+    },
+    {
+        "Name": "Mike Lowell",
+        "Team": "BOS",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 33.01
+    },
+    {
+        "Name": "Wily Mo Pe?a",
+        "Team": "BOS",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 25.1
+    },
+    {
+        "Name": "J.D. Drew",
+        "Team": "BOS",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 31.28
+    },
+    {
+        "Name": "Manny Ramirez",
+        "Team": "BOS",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 91.06,
+        "Age": 34.75
+    },
+    {
+        "Name": "Brandon Moss",
+        "Team": "BOS",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 23.46
+    },
+    {
+        "Name": "David Murphy",
+        "Team": "BOS",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 82.08,
+        "Age": 25.37
+    },
+    {
+        "Name": "Eric Hinske",
+        "Team": "BOS",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 100.46,
+        "Age": 29.57
+    },
+    {
+        "Name": "Coco Crisp",
+        "Team": "BOS",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 27.33
+    },
+    {
+        "Name": "David Ortiz",
+        "Team": "BOS",
+        "Position": "Aler",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 31.28
+    },
+    {
+        "Name": "Curt Schilling",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 100.46,
+        "Age": 40.29
+    },
+    {
+        "Name": "Tim Wakefield",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 40.58
+    },
+    {
+        "Name": "Josh Beckett",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 94.91,
+        "Age": 26.79
+    },
+    {
+        "Name": "Matt Clement",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 32.55
+    },
+    {
+        "Name": "Jonathan Papelbon",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 26.27
+    },
+    {
+        "Name": "Kyle Snyder",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 214.93,
+        "Weigth": 94.05,
+        "Age": 29.47
+    },
+    {
+        "Name": "Devern Hansack",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 29.07
+    },
+    {
+        "Name": "Jon Lester",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 23.15
+    },
+    {
+        "Name": "Kason Gabbard",
+        "Team": "BOS",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 24.9
+    },
+    {
+        "Name": "Craig Hansen",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 89.78,
+        "Age": 23.29
+    },
+    {
+        "Name": "Hideki Okajima",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 82.94,
+        "Age": 31.18
+    },
+    {
+        "Name": "Craig Breslow",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 26.56
+    },
+    {
+        "Name": "Manny Delcarmen",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 25.03
+    },
+    {
+        "Name": "Brendan Donnelly",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 102.6,
+        "Age": 35.66
+    },
+    {
+        "Name": "Javier Lopez",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 29.64
+    },
+    {
+        "Name": "J.C. Romero",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 84.64,
+        "Age": 30.74
+    },
+    {
+        "Name": "Joel Pineiro",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 28.43
+    },
+    {
+        "Name": "Julian Tavarez",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 33.77
+    },
+    {
+        "Name": "Mike Timlin",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 89.78,
+        "Age": 40.97
+    },
+    {
+        "Name": "Nick DeBarr",
+        "Team": "BOS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 23.52
+    },
+    {
+        "Name": "Victor Martinez",
+        "Team": "CLE",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 28.19
+    },
+    {
+        "Name": "Kelly Shoppach",
+        "Team": "CLE",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 26.84
+    },
+    {
+        "Name": "Ryan Garko",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 96.19,
+        "Age": 26.16
+    },
+    {
+        "Name": "Joe Inglett",
+        "Team": "CLE",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 28.67
+    },
+    {
+        "Name": "Josh Barfield",
+        "Team": "CLE",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 24.2
+    },
+    {
+        "Name": "Hector Luna",
+        "Team": "CLE",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 72.67,
+        "Age": 27.08
+    },
+    {
+        "Name": "Jhonny Peralta",
+        "Team": "CLE",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 24.76
+    },
+    {
+        "Name": "Andy Marte",
+        "Team": "CLE",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 23.36
+    },
+    {
+        "Name": "Ben Francisco",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 25.35
+    },
+    {
+        "Name": "Shin-Soo Choo",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 76.09,
+        "Age": 24.63
+    },
+    {
+        "Name": "Franklin Gutierrez",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 74.81,
+        "Age": 24.02
+    },
+    {
+        "Name": "Grady Sizemore",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 24.58
+    },
+    {
+        "Name": "Jason Michaels",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 87.21,
+        "Age": 30.82
+    },
+    {
+        "Name": "Trot Nixon",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 90.2,
+        "Age": 32.89
+    },
+    {
+        "Name": "David Dellucci",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 33.33
+    },
+    {
+        "Name": "Casey Blake",
+        "Team": "CLE",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 33.52
+    },
+    {
+        "Name": "Travis Hafner",
+        "Team": "CLE",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 102.6,
+        "Age": 29.74
+    },
+    {
+        "Name": "Paul Byrd",
+        "Team": "CLE",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 36.24
+    },
+    {
+        "Name": "Cliff Lee",
+        "Team": "CLE",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 28.5
+    },
+    {
+        "Name": "Jake Westbrook",
+        "Team": "CLE",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 79.09,
+        "Age": 29.42
+    },
+    {
+        "Name": "C.C. Sabathia",
+        "Team": "CLE",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 123.98,
+        "Age": 26.61
+    },
+    {
+        "Name": "Jeremy Sowers",
+        "Team": "CLE",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 74.81,
+        "Age": 23.79
+    },
+    {
+        "Name": "Rafael Perez",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 79.09,
+        "Age": 24.96
+    },
+    {
+        "Name": "Brian Slocum",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 25.93
+    },
+    {
+        "Name": "Edward Mujica",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 22.81
+    },
+    {
+        "Name": "Fernando Cabrera",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 72.67,
+        "Age": 25.29
+    },
+    {
+        "Name": "Tom Mastny",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 94.05,
+        "Age": 26.07
+    },
+    {
+        "Name": "Juan Lara",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 26.09
+    },
+    {
+        "Name": "Fausto Carmona",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 23.23
+    },
+    {
+        "Name": "Aaron Fultz",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 33.49
+    },
+    {
+        "Name": "Rafael Betancourt",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 31.84
+    },
+    {
+        "Name": "Roberto Hernandez",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 106.88,
+        "Age": 42.3
+    },
+    {
+        "Name": "Joe Borowski",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 96.19,
+        "Age": 35.82
+    },
+    {
+        "Name": "Matt Miller",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 35.27
+    },
+    {
+        "Name": "Jason Davis",
+        "Team": "CLE",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 89.78,
+        "Age": 26.81
+    },
+    {
+        "Name": "Mike Piazza",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 38.49
+    },
+    {
+        "Name": "Jason Kendall",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 83.36,
+        "Age": 32.68
+    },
+    {
+        "Name": "Adam Melhuse",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 34.93
+    },
+    {
+        "Name": "Nick Swisher",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 82.94,
+        "Age": 26.26
+    },
+    {
+        "Name": "Dan Johnson",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 27.56
+    },
+    {
+        "Name": "Donald Murphy",
+        "Team": "OAK",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 23.98
+    },
+    {
+        "Name": "Mark Ellis",
+        "Team": "OAK",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 29.73
+    },
+    {
+        "Name": "Marco Scutaro",
+        "Team": "OAK",
+        "Position": "Ala-pivot",
+        "Heigth": 188.06,
+        "Weigth": 72.67,
+        "Age": 31.33
+    },
+    {
+        "Name": "Bobby Crosby",
+        "Team": "OAK",
+        "Position": "Ala-pivot",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 27.13
+    },
+    {
+        "Name": "Mark Kiger",
+        "Team": "OAK",
+        "Position": "Ala-pivot",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 26.75
+    },
+    {
+        "Name": "Antonio Perez",
+        "Team": "OAK",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 72.67,
+        "Age": 27.09
+    },
+    {
+        "Name": "Eric Chavez",
+        "Team": "OAK",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 88.06,
+        "Age": 29.23
+    },
+    {
+        "Name": "Milton Bradley",
+        "Team": "OAK",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 28.88
+    },
+    {
+        "Name": "Shannon Stewart",
+        "Team": "OAK",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 33.01
+    },
+    {
+        "Name": "Bobby Kielty",
+        "Team": "OAK",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 96.19,
+        "Age": 30.57
+    },
+    {
+        "Name": "Mark Kotsay",
+        "Team": "OAK",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 85.93,
+        "Age": 31.24
+    },
+    {
+        "Name": "Ryan Goleski",
+        "Team": "OAK",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 24.95
+    },
+    {
+        "Name": "Jeremy Brown",
+        "Team": "OAK",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 96.61,
+        "Age": 27.35
+    },
+    {
+        "Name": "Jason Windsor",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 99.61,
+        "Age": 24.62
+    },
+    {
+        "Name": "David Shafer",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 24.98
+    },
+    {
+        "Name": "Joe Blanton",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 26.22
+    },
+    {
+        "Name": "Brad Halsey",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 26.04
+    },
+    {
+        "Name": "Dan Haren",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 26.45
+    },
+    {
+        "Name": "Rich Harden",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 25.25
+    },
+    {
+        "Name": "Joe Kennedy",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 101.32,
+        "Age": 27.77
+    },
+    {
+        "Name": "Esteban Loaiza",
+        "Team": "OAK",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 35.16
+    },
+    {
+        "Name": "Alan Embree",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 37.1
+    },
+    {
+        "Name": "Jay Witasick",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 100.46,
+        "Age": 34.51
+    },
+    {
+        "Name": "Justin Duchscherer",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 29.28
+    },
+    {
+        "Name": "Kiko Calero",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 32.14
+    },
+    {
+        "Name": "Chad Gaudin",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 70.54,
+        "Age": 23.94
+    },
+    {
+        "Name": "Lenny DiNardo",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 83.36,
+        "Age": 27.45
+    },
+    {
+        "Name": "Scott Dunn",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 28.77
+    },
+    {
+        "Name": "Huston Street",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 23.58
+    },
+    {
+        "Name": "Ron Flores",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 27.56
+    },
+    {
+        "Name": "Jay Marshall",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 79.09,
+        "Age": 24.01
+    },
+    {
+        "Name": "Marcus McBeth",
+        "Team": "OAK",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 26.52
+    },
+    {
+        "Name": "Jorge Posada",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 35.54
+    },
+    {
+        "Name": "Wil Nieves",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 29.43
+    },
+    {
+        "Name": "Andy Phillips",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 29.9
+    },
+    {
+        "Name": "Doug Mientkiewicz",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 88.06,
+        "Age": 32.7
+    },
+    {
+        "Name": "Josh Phelps",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 28.8
+    },
+    {
+        "Name": "Miguel Cairo",
+        "Team": "NYY",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 88.92,
+        "Age": 32.82
+    },
+    {
+        "Name": "Robinson Cano",
+        "Team": "NYY",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 24.36
+    },
+    {
+        "Name": "Derek Jeter",
+        "Team": "NYY",
+        "Position": "Ala-pivot",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 32.68
+    },
+    {
+        "Name": "Alex Rodriguez",
+        "Team": "NYY",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 31.59
+    },
+    {
+        "Name": "Johnny Damon",
+        "Team": "NYY",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 33.32
+    },
+    {
+        "Name": "Bobby Abreu",
+        "Team": "NYY",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 90.2,
+        "Age": 32.97
+    },
+    {
+        "Name": "Hideki Matsui",
+        "Team": "NYY",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 98.33,
+        "Age": 32.72
+    },
+    {
+        "Name": "Melky Cabrera",
+        "Team": "NYY",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 72.67,
+        "Age": 22.55
+    },
+    {
+        "Name": "Kevin Thompson",
+        "Team": "NYY",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 79.09,
+        "Age": 27.45
+    },
+    {
+        "Name": "Jason Giambi",
+        "Team": "NYY",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 98.33,
+        "Age": 36.14
+    },
+    {
+        "Name": "Mike Mussina",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 38.23
+    },
+    {
+        "Name": "Carl Pavano",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 103.03,
+        "Age": 31.14
+    },
+    {
+        "Name": "Andy Pettitte",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 96.19,
+        "Age": 34.71
+    },
+    {
+        "Name": "Darrell Rasner",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 26.13
+    },
+    {
+        "Name": "Jeff Karstens",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 74.81,
+        "Age": 24.43
+    },
+    {
+        "Name": "Humberto Sanchez",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 98.33,
+        "Age": 23.76
+    },
+    {
+        "Name": "Chien-Ming Wang",
+        "Team": "NYY",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 26.92
+    },
+    {
+        "Name": "Sean Henn",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 91.91,
+        "Age": 25.85
+    },
+    {
+        "Name": "Scott Proctor",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 84.64,
+        "Age": 30.16
+    },
+    {
+        "Name": "Brian Bruney",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 96.61,
+        "Age": 25.03
+    },
+    {
+        "Name": "Chris Britton",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 118.85,
+        "Age": 24.21
+    },
+    {
+        "Name": "T.J. Beam",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 212.24,
+        "Weigth": 91.91,
+        "Age": 26.51
+    },
+    {
+        "Name": "Jose Veras",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 98.33,
+        "Age": 26.36
+    },
+    {
+        "Name": "Kyle Farnsworth",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 102.6,
+        "Age": 30.88
+    },
+    {
+        "Name": "Luis Vizcaino",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 78.66,
+        "Age": 32.57
+    },
+    {
+        "Name": "Mike Myers",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 93.62,
+        "Age": 37.68
+    },
+    {
+        "Name": "Mariano Rivera",
+        "Team": "NYY",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 72.67,
+        "Age": 37.25
+    },
+    {
+        "Name": "Ivan Rodriguez",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 185.37,
+        "Weigth": 93.19,
+        "Age": 35.25
+    },
+    {
+        "Name": "Vance Wilson",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 33.95
+    },
+    {
+        "Name": "Sean Casey",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 96.19,
+        "Age": 32.66
+    },
+    {
+        "Name": "Chris Shelton",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 94.05,
+        "Age": 26.68
+    },
+    {
+        "Name": "Omar Infante",
+        "Team": "DET",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 75.24,
+        "Age": 25.18
+    },
+    {
+        "Name": "Placido Polanco",
+        "Team": "DET",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 81.23,
+        "Age": 31.39
+    },
+    {
+        "Name": "Neifi Perez",
+        "Team": "DET",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 84.22,
+        "Age": 33.74
+    },
+    {
+        "Name": "Carlos Guillen",
+        "Team": "DET",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 87.21,
+        "Age": 31.42
+    },
+    {
+        "Name": "Ramon Santiago",
+        "Team": "DET",
+        "Position": "Ala-pivot",
+        "Heigth": 190.75,
+        "Weigth": 71.39,
+        "Age": 27.5
+    },
+    {
+        "Name": "Tony Giarratano",
+        "Team": "DET",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 24.25
+    },
+    {
+        "Name": "Brandon Inge",
+        "Team": "DET",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 83.36,
+        "Age": 29.78
+    },
+    {
+        "Name": "Craig Monroe",
+        "Team": "DET",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 94.05,
+        "Age": 30.0
+    },
+    {
+        "Name": "Magglio Ordo?ez",
+        "Team": "DET",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 91.91,
+        "Age": 33.09
+    },
+    {
+        "Name": "Curtis Granderson",
+        "Team": "DET",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 25.96
+    },
+    {
+        "Name": "Brent Clevlen",
+        "Team": "DET",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 23.34
+    },
+    {
+        "Name": "Marcus Thames",
+        "Team": "DET",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 29.98
+    },
+    {
+        "Name": "Gary Sheffield",
+        "Team": "DET",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 38.28
+    },
+    {
+        "Name": "Mike Rabelo",
+        "Team": "DET",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 27.12
+    },
+    {
+        "Name": "Zach Miner",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 24.97
+    },
+    {
+        "Name": "Jeremy Bonderman",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 24.34
+    },
+    {
+        "Name": "Nate Robertson",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 91.91,
+        "Age": 29.49
+    },
+    {
+        "Name": "Justin Verlander",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 24.02
+    },
+    {
+        "Name": "Virgil Vasquez",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 24.73
+    },
+    {
+        "Name": "Kenny Rogers",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 90.2,
+        "Age": 42.3
+    },
+    {
+        "Name": "Mike Maroth",
+        "Team": "DET",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 29.54
+    },
+    {
+        "Name": "Fernando Rodney",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 88.92,
+        "Age": 29.95
+    },
+    {
+        "Name": "Chad Durbin",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 29.24
+    },
+    {
+        "Name": "Jason Grilli",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 89.78,
+        "Age": 30.3
+    },
+    {
+        "Name": "Jose Mesa",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 99.18,
+        "Age": 40.77
+    },
+    {
+        "Name": "Todd Jones",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 98.33,
+        "Age": 38.85
+    },
+    {
+        "Name": "Joel Zumaya",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 22.31
+    },
+    {
+        "Name": "Jordan Tata",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 94.05,
+        "Age": 25.44
+    },
+    {
+        "Name": "Andrew Miller",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 89.78,
+        "Age": 21.78
+    },
+    {
+        "Name": "Yorman Bazardo",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 86.36,
+        "Age": 22.64
+    },
+    {
+        "Name": "Wilfredo Ledezma",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 90.63,
+        "Age": 26.11
+    },
+    {
+        "Name": "Roman Colon",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 96.19,
+        "Age": 27.55
+    },
+    {
+        "Name": "Edward Campusano",
+        "Team": "DET",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 72.67,
+        "Age": 24.63
+    },
+    {
+        "Name": "Rene Rivera",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 81.23,
+        "Age": 23.58
+    },
+    {
+        "Name": "Kenji Johjima",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 30.73
+    },
+    {
+        "Name": "Richie Sexson",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 214.93,
+        "Weigth": 101.32,
+        "Age": 32.17
+    },
+    {
+        "Name": "Ben Broussard",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 30.43
+    },
+    {
+        "Name": "Jose Lopez",
+        "Team": "SEA",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 72.67,
+        "Age": 23.27
+    },
+    {
+        "Name": "Jose Vidro",
+        "Team": "SEA",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 82.51,
+        "Age": 32.51
+    },
+    {
+        "Name": "Yuniesky Betancourt",
+        "Team": "SEA",
+        "Position": "Ala-pivot",
+        "Heigth": 188.06,
+        "Weigth": 81.23,
+        "Age": 25.08
+    },
+    {
+        "Name": "Oswaldo Navarro",
+        "Team": "SEA",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 64.12,
+        "Age": 22.41
+    },
+    {
+        "Name": "Adrian Beltre",
+        "Team": "SEA",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 94.05,
+        "Age": 27.9
+    },
+    {
+        "Name": "Raul Ibanez",
+        "Team": "SEA",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 34.74
+    },
+    {
+        "Name": "Jose Guillen",
+        "Team": "SEA",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 30.79
+    },
+    {
+        "Name": "Jeremy Reed",
+        "Team": "SEA",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 25.71
+    },
+    {
+        "Name": "Willie Bloomquist",
+        "Team": "SEA",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 79.09,
+        "Age": 29.26
+    },
+    {
+        "Name": "Adam Jones",
+        "Team": "SEA",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 21.58
+    },
+    {
+        "Name": "Ichiro Suzuki",
+        "Team": "SEA",
+        "Position": "Escorta",
+        "Heigth": 185.37,
+        "Weigth": 73.53,
+        "Age": 33.36
+    },
+    {
+        "Name": "Mike Morse",
+        "Team": "SEA",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 24.94
+    },
+    {
+        "Name": "Felix Hernandez",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 20.9
+    },
+    {
+        "Name": "Ryan Feierabend",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 21.52
+    },
+    {
+        "Name": "Sean White",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 83.36,
+        "Age": 25.85
+    },
+    {
+        "Name": "Horacio Ramirez",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 93.62,
+        "Age": 27.27
+    },
+    {
+        "Name": "Cha Baek",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 81.23,
+        "Age": 26.75
+    },
+    {
+        "Name": "Miguel Batista",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 84.22,
+        "Age": 36.03
+    },
+    {
+        "Name": "Jeff Weaver",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 30.52
+    },
+    {
+        "Name": "Jarrod Washburn",
+        "Team": "SEA",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 83.36,
+        "Age": 32.55
+    },
+    {
+        "Name": "George Sherrill",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 29.86
+    },
+    {
+        "Name": "Julio Mateo",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 75.67,
+        "Age": 29.58
+    },
+    {
+        "Name": "J.J. Putz",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 30.02
+    },
+    {
+        "Name": "Chris Reitsma",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 100.46,
+        "Age": 29.16
+    },
+    {
+        "Name": "Cesar Jimenez",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 22.3
+    },
+    {
+        "Name": "Eric O'Flaherty",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 22.06
+    },
+    {
+        "Name": "Jon Huber",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 25.65
+    },
+    {
+        "Name": "Jake Woods",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 25.49
+    },
+    {
+        "Name": "Sean Green",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 98.33,
+        "Age": 27.86
+    },
+    {
+        "Name": "Mark Lowe",
+        "Team": "SEA",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 23.73
+    },
+    {
+        "Name": "Josh Paul",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 31.78
+    },
+    {
+        "Name": "Dioner Navarro",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 81.23,
+        "Age": 23.06
+    },
+    {
+        "Name": "Shawn Riggans",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 26.6
+    },
+    {
+        "Name": "Ty Wigginton",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 29.39
+    },
+    {
+        "Name": "Brendan Harris",
+        "Team": "TB",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 26.51
+    },
+    {
+        "Name": "Jorge Cantu",
+        "Team": "TB",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 78.66,
+        "Age": 25.08
+    },
+    {
+        "Name": "Ben Zobrist",
+        "Team": "TB",
+        "Position": "Ala-pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 25.76
+    },
+    {
+        "Name": "B.J. Upton",
+        "Team": "TB",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 76.95,
+        "Age": 22.52
+    },
+    {
+        "Name": "Carl Crawford",
+        "Team": "TB",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 93.62,
+        "Age": 25.57
+    },
+    {
+        "Name": "Rocco Baldelli",
+        "Team": "TB",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 79.94,
+        "Age": 25.43
+    },
+    {
+        "Name": "Greg Norton",
+        "Team": "TB",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 34.65
+    },
+    {
+        "Name": "Elijah Dukes",
+        "Team": "TB",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 22.68
+    },
+    {
+        "Name": "Delmon Young",
+        "Team": "TB",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 21.46
+    },
+    {
+        "Name": "Jonny Gomes",
+        "Team": "TB",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 26.27
+    },
+    {
+        "Name": "Edwin Jackson",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 23.47
+    },
+    {
+        "Name": "Scott Kazmir",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 23.1
+    },
+    {
+        "Name": "Casey Fossum",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 68.4,
+        "Age": 29.14
+    },
+    {
+        "Name": "Jae Seo",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 29.77
+    },
+    {
+        "Name": "J.P. Howell",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 23.85
+    },
+    {
+        "Name": "Tim Corcoran",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 28.88
+    },
+    {
+        "Name": "Jason Hammel",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 85.5,
+        "Age": 24.49
+    },
+    {
+        "Name": "James Shields",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 91.49,
+        "Age": 25.19
+    },
+    {
+        "Name": "Brian Stokes",
+        "Team": "TB",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 27.48
+    },
+    {
+        "Name": "Juan Salas",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 28.31
+    },
+    {
+        "Name": "Jeff Ridgway",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 76.95,
+        "Age": 26.54
+    },
+    {
+        "Name": "Ruddy Lugo",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 87.64,
+        "Age": 26.77
+    },
+    {
+        "Name": "Jae-Kuk Ryu",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 23.75
+    },
+    {
+        "Name": "Chad Orvella",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 26.41
+    },
+    {
+        "Name": "Dan Miceli",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 91.91,
+        "Age": 36.47
+    },
+    {
+        "Name": "Seth McClung",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 100.46,
+        "Age": 26.06
+    },
+    {
+        "Name": "Jon Switzer",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 81.65,
+        "Age": 27.55
+    },
+    {
+        "Name": "Shawn Camp",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 31.28
+    },
+    {
+        "Name": "Scott Dohmann",
+        "Team": "TB",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 77.38,
+        "Age": 29.04
+    },
+    {
+        "Name": "Jason LaRue",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 32.95
+    },
+    {
+        "Name": "John Buck",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 26.65
+    },
+    {
+        "Name": "Ryan Shealy",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 102.6,
+        "Age": 27.5
+    },
+    {
+        "Name": "Ross Gload",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 30.9
+    },
+    {
+        "Name": "Esteban German",
+        "Team": "KC",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 70.54,
+        "Age": 29.09
+    },
+    {
+        "Name": "Mark Grudzielanek",
+        "Team": "KC",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 36.67
+    },
+    {
+        "Name": "Angel Sanchez",
+        "Team": "KC",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 23.44
+    },
+    {
+        "Name": "Angel Berroa",
+        "Team": "KC",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 29.09
+    },
+    {
+        "Name": "Andres Blanco",
+        "Team": "KC",
+        "Position": "Ala-pivot",
+        "Heigth": 188.06,
+        "Weigth": 66.26,
+        "Age": 22.89
+    },
+    {
+        "Name": "Mark Teahen",
+        "Team": "KC",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 25.48
+    },
+    {
+        "Name": "Joey Gathright",
+        "Team": "KC",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 72.67,
+        "Age": 25.84
+    },
+    {
+        "Name": "David DeJesus",
+        "Team": "KC",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 27.2
+    },
+    {
+        "Name": "Shane Costa",
+        "Team": "KC",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 94.05,
+        "Age": 25.22
+    },
+    {
+        "Name": "Mitch Maier",
+        "Team": "KC",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 24.67
+    },
+    {
+        "Name": "Reggie Sanders",
+        "Team": "KC",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 39.25
+    },
+    {
+        "Name": "Emil Brown",
+        "Team": "KC",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 32.17
+    },
+    {
+        "Name": "Mike Sweeney",
+        "Team": "KC",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 33.61
+    },
+    {
+        "Name": "John Bale",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 32.77
+    },
+    {
+        "Name": "Luke Hudson",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 29.83
+    },
+    {
+        "Name": "Scott Elarton",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 214.93,
+        "Weigth": 102.6,
+        "Age": 31.02
+    },
+    {
+        "Name": "Odalis Perez",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 64.12,
+        "Age": 29.73
+    },
+    {
+        "Name": "Gil Meche",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 28.48
+    },
+    {
+        "Name": "Neal Musser",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 26.51
+    },
+    {
+        "Name": "Brian Bannister",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 86.36,
+        "Age": 26.0
+    },
+    {
+        "Name": "Zack Greinke",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 23.36
+    },
+    {
+        "Name": "Jorge De La Rosa",
+        "Team": "KC",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 25.9
+    },
+    {
+        "Name": "Todd Wellemeyer",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 28.5
+    },
+    {
+        "Name": "Jimmy Gobble",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 25.62
+    },
+    {
+        "Name": "Joel Peralta",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 68.4,
+        "Age": 30.94
+    },
+    {
+        "Name": "Ryan Braun",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 26.59
+    },
+    {
+        "Name": "Joakim Soria",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 79.09,
+        "Age": 22.78
+    },
+    {
+        "Name": "Ken Ray",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 32.26
+    },
+    {
+        "Name": "David Riske",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 30.35
+    },
+    {
+        "Name": "Octavio Dotel",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 33.26
+    },
+    {
+        "Name": "Joe Nelson",
+        "Team": "KC",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 32.35
+    },
+    {
+        "Name": "Gerald Laird",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 27.3
+    },
+    {
+        "Name": "Miguel Ojeda",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 32.08
+    },
+    {
+        "Name": "Guillermo Quiroz",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 86.36,
+        "Age": 25.25
+    },
+    {
+        "Name": "Chris Stewart",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 25.03
+    },
+    {
+        "Name": "Mark Teixeira",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 26.89
+    },
+    {
+        "Name": "Ian Kinsler",
+        "Team": "TEX",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 24.69
+    },
+    {
+        "Name": "Joaquin Arias",
+        "Team": "TEX",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 68.4,
+        "Age": 22.44
+    },
+    {
+        "Name": "Michael Young",
+        "Team": "TEX",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 30.36
+    },
+    {
+        "Name": "Hank Blalock",
+        "Team": "TEX",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 26.27
+    },
+    {
+        "Name": "Marlon Byrd",
+        "Team": "TEX",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 97.9,
+        "Age": 29.5
+    },
+    {
+        "Name": "Brad Wilkerson",
+        "Team": "TEX",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 88.06,
+        "Age": 29.75
+    },
+    {
+        "Name": "Sammy Sosa",
+        "Team": "TEX",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 94.05,
+        "Age": 38.3
+    },
+    {
+        "Name": "Kenny Lofton",
+        "Team": "TEX",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 39.75
+    },
+    {
+        "Name": "Frank Catalanotto",
+        "Team": "TEX",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 83.36,
+        "Age": 32.84
+    },
+    {
+        "Name": "Nelson Cruz",
+        "Team": "TEX",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 74.81,
+        "Age": 26.66
+    },
+    {
+        "Name": "Jason Botts",
+        "Team": "TEX",
+        "Position": "Aler",
+        "Heigth": 206.86,
+        "Weigth": 106.88,
+        "Age": 26.6
+    },
+    {
+        "Name": "Robinson Tejeda",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 80.37,
+        "Age": 24.94
+    },
+    {
+        "Name": "John Rheinecker",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 98.33,
+        "Age": 27.76
+    },
+    {
+        "Name": "Edinson Volquez",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 23.66
+    },
+    {
+        "Name": "A.J. Murray",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 24.96
+    },
+    {
+        "Name": "Brandon McCarthy",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 81.23,
+        "Age": 23.65
+    },
+    {
+        "Name": "Vicente Padilla",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 93.62,
+        "Age": 29.42
+    },
+    {
+        "Name": "Kevin Millwood",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 100.46,
+        "Age": 32.18
+    },
+    {
+        "Name": "John Koronka",
+        "Team": "TEX",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 26.66
+    },
+    {
+        "Name": "Frank Francisco",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 27.47
+    },
+    {
+        "Name": "Francisco Cruceta",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 25.66
+    },
+    {
+        "Name": "Akinori Otsuka",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 35.13
+    },
+    {
+        "Name": "Eric Gagne",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 100.04,
+        "Age": 31.15
+    },
+    {
+        "Name": "Ron Mahay",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 35.67
+    },
+    {
+        "Name": "Joaquin Benoit",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 29.6
+    },
+    {
+        "Name": "Rick Bauer",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 95.33,
+        "Age": 30.14
+    },
+    {
+        "Name": "Josh Rupe",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 24.53
+    },
+    {
+        "Name": "Wes Littleton",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 24.49
+    },
+    {
+        "Name": "C.J. Wilson",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 26.28
+    },
+    {
+        "Name": "Scott Feldman",
+        "Team": "TEX",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 89.78,
+        "Age": 24.06
+    },
+    {
+        "Name": "Gregg Zaun",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 81.23,
+        "Age": 35.88
+    },
+    {
+        "Name": "Jason Phillips",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 75.67,
+        "Age": 30.42
+    },
+    {
+        "Name": "Lyle Overbay",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 97.04,
+        "Age": 30.09
+    },
+    {
+        "Name": "Russ Adams",
+        "Team": "TOR",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 26.5
+    },
+    {
+        "Name": "Aaron Hill",
+        "Team": "TOR",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 83.36,
+        "Age": 24.94
+    },
+    {
+        "Name": "Jason Smith",
+        "Team": "TOR",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 85.07,
+        "Age": 29.6
+    },
+    {
+        "Name": "John McDonald",
+        "Team": "TOR",
+        "Position": "Ala-pivot",
+        "Heigth": 190.75,
+        "Weigth": 74.81,
+        "Age": 32.43
+    },
+    {
+        "Name": "Royce Clayton",
+        "Team": "TOR",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 37.16
+    },
+    {
+        "Name": "Troy Glaus",
+        "Team": "TOR",
+        "Position": "Aler",
+        "Heigth": 206.86,
+        "Weigth": 102.6,
+        "Age": 30.57
+    },
+    {
+        "Name": "John Hattig",
+        "Team": "TOR",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 27.01
+    },
+    {
+        "Name": "Reed Johnson",
+        "Team": "TOR",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 30.23
+    },
+    {
+        "Name": "Alex Rios",
+        "Team": "TOR",
+        "Position": "Escorta",
+        "Heigth": 206.86,
+        "Weigth": 82.94,
+        "Age": 26.03
+    },
+    {
+        "Name": "Vernon Wells",
+        "Team": "TOR",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 96.19,
+        "Age": 28.23
+    },
+    {
+        "Name": "Frank Thomas",
+        "Team": "TOR",
+        "Position": "Aler",
+        "Heigth": 206.86,
+        "Weigth": 117.56,
+        "Age": 38.76
+    },
+    {
+        "Name": "Adam Lind",
+        "Team": "TOR",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 23.62
+    },
+    {
+        "Name": "Shaun Marcum",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 25.21
+    },
+    {
+        "Name": "Casey Janssen",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 25.45
+    },
+    {
+        "Name": "Gustavo Chacin",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 82.51,
+        "Age": 26.24
+    },
+    {
+        "Name": "A.J. Burnett",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 30.15
+    },
+    {
+        "Name": "Roy Halladay",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 98.33,
+        "Age": 29.8
+    },
+    {
+        "Name": "John Thomson",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 33.41
+    },
+    {
+        "Name": "Tomo Ohka",
+        "Team": "TOR",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 30.95
+    },
+    {
+        "Name": "B.J. Ryan",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 106.45,
+        "Age": 31.17
+    },
+    {
+        "Name": "Scott Downs",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 30.95
+    },
+    {
+        "Name": "Brian Tallet",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 212.24,
+        "Weigth": 88.92,
+        "Age": 29.44
+    },
+    {
+        "Name": "Matt Roney",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 104.74,
+        "Age": 27.14
+    },
+    {
+        "Name": "Tracy Thorpe",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 106.88,
+        "Age": 26.21
+    },
+    {
+        "Name": "Jean Machi",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 68.4,
+        "Age": 24.08
+    },
+    {
+        "Name": "Brandon League",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 82.08,
+        "Age": 23.96
+    },
+    {
+        "Name": "Dustin McGowan",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 24.94
+    },
+    {
+        "Name": "Jason Frasor",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 72.67,
+        "Age": 29.56
+    },
+    {
+        "Name": "Francisco Rosario",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 84.22,
+        "Age": 26.42
+    },
+    {
+        "Name": "Davis Romero",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 66.26,
+        "Age": 23.92
+    },
+    {
+        "Name": "Jeremy Accardo",
+        "Team": "TOR",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 25.23
+    },
+    {
+        "Name": "Mike Redmond",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 35.82
+    },
+    {
+        "Name": "Joe Mauer",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 23.87
+    },
+    {
+        "Name": "Chris Heintz",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 32.57
+    },
+    {
+        "Name": "Justin Morneau",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 97.47,
+        "Age": 25.79
+    },
+    {
+        "Name": "Luis Castillo",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 31.47
+    },
+    {
+        "Name": "Alexi Casilla",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 68.4,
+        "Age": 22.61
+    },
+    {
+        "Name": "Alejandro Machado",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 78.66,
+        "Age": 24.85
+    },
+    {
+        "Name": "Jason Bartlett",
+        "Team": "MIN",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 27.33
+    },
+    {
+        "Name": "Luis Rodriguez",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 76.95,
+        "Age": 26.67
+    },
+    {
+        "Name": "Jeff Cirillo",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 37.43
+    },
+    {
+        "Name": "Nick Punto",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 75.24,
+        "Age": 29.31
+    },
+    {
+        "Name": "Jason Tyner",
+        "Team": "MIN",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 68.4,
+        "Age": 29.85
+    },
+    {
+        "Name": "Michael Cuddyer",
+        "Team": "MIN",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 94.91,
+        "Age": 27.93
+    },
+    {
+        "Name": "Torii Hunter",
+        "Team": "MIN",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 90.2,
+        "Age": 31.62
+    },
+    {
+        "Name": "Lew Ford",
+        "Team": "MIN",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 83.36,
+        "Age": 30.55
+    },
+    {
+        "Name": "Jason Kubel",
+        "Team": "MIN",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 24.77
+    },
+    {
+        "Name": "Josh Rabe",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 28.38
+    },
+    {
+        "Name": "Rondell White",
+        "Team": "MIN",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 96.19,
+        "Age": 35.02
+    },
+    {
+        "Name": "Ramon Ortiz",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 33.77
+    },
+    {
+        "Name": "Johan Santana",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 88.06,
+        "Age": 27.97
+    },
+    {
+        "Name": "Carlos Silva",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 102.6,
+        "Age": 27.85
+    },
+    {
+        "Name": "Matt Garza",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 79.09,
+        "Age": 23.26
+    },
+    {
+        "Name": "Boof Bonser",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 111.15,
+        "Age": 25.38
+    },
+    {
+        "Name": "Francisco Liriano",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 23.35
+    },
+    {
+        "Name": "Scott Baker",
+        "Team": "MIN",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 94.48,
+        "Age": 25.45
+    },
+    {
+        "Name": "Pat Neshek",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 26.49
+    },
+    {
+        "Name": "Glen Perkins",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 24.0
+    },
+    {
+        "Name": "Julio DePaula",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 24.16
+    },
+    {
+        "Name": "Juan Rincon",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 85.93,
+        "Age": 28.1
+    },
+    {
+        "Name": "Jesse Crain",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 25.65
+    },
+    {
+        "Name": "Matt Guerrier",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 79.09,
+        "Age": 28.58
+    },
+    {
+        "Name": "Joe Nathan",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 32.27
+    },
+    {
+        "Name": "Dennys Reyes",
+        "Team": "MIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 104.74,
+        "Age": 29.86
+    },
+    {
+        "Name": "Brayan Pe?a",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 94.05,
+        "Age": 25.14
+    },
+    {
+        "Name": "Brian McCann",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 23.03
+    },
+    {
+        "Name": "Craig Wilson",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 30.25
+    },
+    {
+        "Name": "Chris Woodward",
+        "Team": "ATL",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 30.67
+    },
+    {
+        "Name": "Pete Orr",
+        "Team": "ATL",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 74.81,
+        "Age": 27.73
+    },
+    {
+        "Name": "Martin Prado",
+        "Team": "ATL",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 72.67,
+        "Age": 23.34
+    },
+    {
+        "Name": "Tony Pe?a",
+        "Team": "ATL",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 25.94
+    },
+    {
+        "Name": "Edgar Renteria",
+        "Team": "ATL",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 31.56
+    },
+    {
+        "Name": "Chipper Jones",
+        "Team": "ATL",
+        "Position": "Aler",
+        "Heigth": 204.17,
+        "Weigth": 89.78,
+        "Age": 34.85
+    },
+    {
+        "Name": "Willy Aybar",
+        "Team": "ATL",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 23.98
+    },
+    {
+        "Name": "Jeff Francoeur",
+        "Team": "ATL",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 23.14
+    },
+    {
+        "Name": "Matt Diaz",
+        "Team": "ATL",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 88.06,
+        "Age": 28.99
+    },
+    {
+        "Name": "Kelly Johnson",
+        "Team": "ATL",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 25.02
+    },
+    {
+        "Name": "Andruw Jones",
+        "Team": "ATL",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 29.85
+    },
+    {
+        "Name": "Ryan Langerhans",
+        "Team": "ATL",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 27.03
+    },
+    {
+        "Name": "Scott Thorman",
+        "Team": "ATL",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 25.15
+    },
+    {
+        "Name": "T.J. Bohn",
+        "Team": "ATL",
+        "Position": "Escorta",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 27.12
+    },
+    {
+        "Name": "Tim Hudson",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 70.11,
+        "Age": 31.63
+    },
+    {
+        "Name": "Jonathan Johnson",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 32.62
+    },
+    {
+        "Name": "John Smoltz",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 39.79
+    },
+    {
+        "Name": "Mike Hampton",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 83.36,
+        "Age": 34.47
+    },
+    {
+        "Name": "Kyle Davies",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 23.47
+    },
+    {
+        "Name": "Chuck James",
+        "Team": "ATL",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 25.31
+    },
+    {
+        "Name": "Phil Stockman",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 214.93,
+        "Weigth": 102.6,
+        "Age": 27.1
+    },
+    {
+        "Name": "Macay McBride",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 89.78,
+        "Age": 24.35
+    },
+    {
+        "Name": "Joey Devine",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 83.36,
+        "Age": 23.45
+    },
+    {
+        "Name": "Peter Moylan",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 28.24
+    },
+    {
+        "Name": "Mike Gonzalez",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 28.77
+    },
+    {
+        "Name": "Lance Cormier",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 82.08,
+        "Age": 26.53
+    },
+    {
+        "Name": "Blaine Boyer",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 25.64
+    },
+    {
+        "Name": "Manny Acosta",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 72.67,
+        "Age": 25.83
+    },
+    {
+        "Name": "Bob Wickman",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 102.6,
+        "Age": 38.06
+    },
+    {
+        "Name": "Tanyon Sturtze",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 36.38
+    },
+    {
+        "Name": "Oscar Villarreal",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 25.27
+    },
+    {
+        "Name": "Rafael Soriano",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 74.81,
+        "Age": 27.2
+    },
+    {
+        "Name": "Chad Paronto",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 106.88,
+        "Age": 31.59
+    },
+    {
+        "Name": "Tyler Yates",
+        "Team": "ATL",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 29.56
+    },
+    {
+        "Name": "Henry Blanco",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 95.76,
+        "Age": 35.5
+    },
+    {
+        "Name": "Michael Barrett",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 30.35
+    },
+    {
+        "Name": "Geovany Soto",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 83.36,
+        "Age": 24.11
+    },
+    {
+        "Name": "Scott Moore",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 23.29
+    },
+    {
+        "Name": "Derrek Lee",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 104.74,
+        "Age": 31.48
+    },
+    {
+        "Name": "Ryan Theriot",
+        "Team": "CHC",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 74.81,
+        "Age": 27.23
+    },
+    {
+        "Name": "Ronny Cedeno",
+        "Team": "CHC",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 24.07
+    },
+    {
+        "Name": "Aramis Ramirez",
+        "Team": "CHC",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 28.68
+    },
+    {
+        "Name": "Cesar Izturis",
+        "Team": "CHC",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 74.81,
+        "Age": 27.05
+    },
+    {
+        "Name": "Alfonso Soriano",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 31.15
+    },
+    {
+        "Name": "Jacque Jones",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 83.36,
+        "Age": 31.85
+    },
+    {
+        "Name": "Daryle Ward",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 98.33,
+        "Age": 31.68
+    },
+    {
+        "Name": "Cliff Floyd",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 34.23
+    },
+    {
+        "Name": "Mark DeRosa",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 32.01
+    },
+    {
+        "Name": "Matt Murton",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 25.41
+    },
+    {
+        "Name": "Buck Coats",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 24.73
+    },
+    {
+        "Name": "Angel Pagan",
+        "Team": "CHC",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 25.66
+    },
+    {
+        "Name": "Sean Marshall",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 87.64,
+        "Age": 24.5
+    },
+    {
+        "Name": "Carlos Marmol",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 24.38
+    },
+    {
+        "Name": "Ryan O'Malley",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 26.89
+    },
+    {
+        "Name": "Juan Mateo",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 24.2
+    },
+    {
+        "Name": "Rich Hill",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 81.23,
+        "Age": 26.97
+    },
+    {
+        "Name": "Angel Guzman",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 25.21
+    },
+    {
+        "Name": "Wade Miller",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 30.46
+    },
+    {
+        "Name": "Jason Marquis",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 28.53
+    },
+    {
+        "Name": "Carlos Zambrano",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 109.01,
+        "Age": 25.75
+    },
+    {
+        "Name": "Ted Lilly",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 31.15
+    },
+    {
+        "Name": "Mark Prior",
+        "Team": "CHC",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 98.33,
+        "Age": 26.48
+    },
+    {
+        "Name": "Neal Cotts",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 26.93
+    },
+    {
+        "Name": "Will Ohman",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 29.55
+    },
+    {
+        "Name": "Scott Eyre",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 34.75
+    },
+    {
+        "Name": "Kerry Wood",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 96.19,
+        "Age": 29.71
+    },
+    {
+        "Name": "Ryan Dempster",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 91.91,
+        "Age": 29.83
+    },
+    {
+        "Name": "Bob Howry",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 33.57
+    },
+    {
+        "Name": "Mike Wuertz",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 28.21
+    },
+    {
+        "Name": "Roberto Novoa",
+        "Team": "CHC",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 27.54
+    },
+    {
+        "Name": "Chris Snyder",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 26.05
+    },
+    {
+        "Name": "Miguel Montero",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 84.22,
+        "Age": 23.64
+    },
+    {
+        "Name": "Conor Jackson",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 96.19,
+        "Age": 24.82
+    },
+    {
+        "Name": "Robby Hammock",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 79.94,
+        "Age": 29.8
+    },
+    {
+        "Name": "Tony Clark",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 212.24,
+        "Weigth": 104.74,
+        "Age": 34.71
+    },
+    {
+        "Name": "Orlando Hudson",
+        "Team": "ARZ",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 29.22
+    },
+    {
+        "Name": "Stephen Drew",
+        "Team": "ARZ",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 23.96
+    },
+    {
+        "Name": "Alberto Callaspo",
+        "Team": "ARZ",
+        "Position": "Ala-pivot",
+        "Heigth": 188.06,
+        "Weigth": 74.81,
+        "Age": 23.87
+    },
+    {
+        "Name": "Chad Tracy",
+        "Team": "ARZ",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 26.77
+    },
+    {
+        "Name": "Chris Young",
+        "Team": "ARZ",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 23.49
+    },
+    {
+        "Name": "Scott Hairston",
+        "Team": "ARZ",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 80.37,
+        "Age": 26.77
+    },
+    {
+        "Name": "Carlos Quentin",
+        "Team": "ARZ",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 96.19,
+        "Age": 24.51
+    },
+    {
+        "Name": "Jeff DaVanon",
+        "Team": "ARZ",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 33.23
+    },
+    {
+        "Name": "Eric Byrnes",
+        "Team": "ARZ",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 31.04
+    },
+    {
+        "Name": "Livan Hernandez",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 104.74,
+        "Age": 32.02
+    },
+    {
+        "Name": "Doug Davis",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 91.06,
+        "Age": 31.44
+    },
+    {
+        "Name": "Randy Johnson",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 220.29,
+        "Weigth": 98.75,
+        "Age": 43.47
+    },
+    {
+        "Name": "Juan Cruz",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 70.54,
+        "Age": 28.38
+    },
+    {
+        "Name": "Brandon Webb",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 97.47,
+        "Age": 27.81
+    },
+    {
+        "Name": "Enrique Gonzalez",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 89.78,
+        "Age": 24.57
+    },
+    {
+        "Name": "Dana Eveland",
+        "Team": "ARZ",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 106.88,
+        "Age": 23.34
+    },
+    {
+        "Name": "Brandon Medders",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.65,
+        "Age": 27.09
+    },
+    {
+        "Name": "Tony Pe?a",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 25.14
+    },
+    {
+        "Name": "Doug Slaten",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 27.07
+    },
+    {
+        "Name": "Edgar Gonzalez",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 91.91,
+        "Age": 24.02
+    },
+    {
+        "Name": "Jose Valverde",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 108.59,
+        "Age": 27.6
+    },
+    {
+        "Name": "Jorge Julio",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 99.18,
+        "Age": 27.99
+    },
+    {
+        "Name": "Brandon Lyon",
+        "Team": "ARZ",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 27.56
+    },
+    {
+        "Name": "Miguel Olivo",
+        "Team": "FLA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 91.91,
+        "Age": 28.63
+    },
+    {
+        "Name": "Matt Treanor",
+        "Team": "FLA",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 30.99
+    },
+    {
+        "Name": "Mike Jacobs",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 26.33
+    },
+    {
+        "Name": "Dan Uggla",
+        "Team": "FLA",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 26.97
+    },
+    {
+        "Name": "Robert Andino",
+        "Team": "FLA",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 22.85
+    },
+    {
+        "Name": "Hanley Ramirez",
+        "Team": "FLA",
+        "Position": "Ala-pivot",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 23.19
+    },
+    {
+        "Name": "Miguel Cabrera",
+        "Team": "FLA",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 23.87
+    },
+    {
+        "Name": "Aaron Boone",
+        "Team": "FLA",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 33.98
+    },
+    {
+        "Name": "Joe Borchard",
+        "Team": "FLA",
+        "Position": "Escorta",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 28.26
+    },
+    {
+        "Name": "Alfredo Amezaga",
+        "Team": "FLA",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 70.54,
+        "Age": 29.12
+    },
+    {
+        "Name": "Cody Ross",
+        "Team": "FLA",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 26.18
+    },
+    {
+        "Name": "Josh Willingham",
+        "Team": "FLA",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 28.03
+    },
+    {
+        "Name": "Jeremy Hermida",
+        "Team": "FLA",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 23.08
+    },
+    {
+        "Name": "Eric Reed",
+        "Team": "FLA",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 72.67,
+        "Age": 26.24
+    },
+    {
+        "Name": "Reggi Abercrombie",
+        "Team": "FLA",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 95.76,
+        "Age": 26.63
+    },
+    {
+        "Name": "Ricky Nolasco",
+        "Team": "FLA",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 24.21
+    },
+    {
+        "Name": "Anibal Sanchez",
+        "Team": "FLA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 23.01
+    },
+    {
+        "Name": "Scott Olsen",
+        "Team": "FLA",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 84.64,
+        "Age": 23.13
+    },
+    {
+        "Name": "Josh Johnson",
+        "Team": "FLA",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 102.6,
+        "Age": 23.08
+    },
+    {
+        "Name": "Dontrelle Willis",
+        "Team": "FLA",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 102.17,
+        "Age": 25.13
+    },
+    {
+        "Name": "Logan Kensing",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 24.66
+    },
+    {
+        "Name": "Sergio Mitre",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 89.78,
+        "Age": 26.03
+    },
+    {
+        "Name": "Kevin Gregg",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 94.05,
+        "Age": 28.7
+    },
+    {
+        "Name": "Travis Bowyer",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 25.57
+    },
+    {
+        "Name": "Renyel Pinto",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 83.36,
+        "Age": 24.65
+    },
+    {
+        "Name": "Randy Messenger",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 94.05,
+        "Age": 25.55
+    },
+    {
+        "Name": "Yusmeiro Petit",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 98.33,
+        "Age": 22.27
+    },
+    {
+        "Name": "Carlos Martinez",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 72.67,
+        "Age": 24.76
+    },
+    {
+        "Name": "Taylor Tankersley",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 94.05,
+        "Age": 23.98
+    },
+    {
+        "Name": "Henry Owens",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 98.33,
+        "Age": 27.85
+    },
+    {
+        "Name": "Jose Garcia",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 70.54,
+        "Age": 22.14
+    },
+    {
+        "Name": "Matt Lindstrom",
+        "Team": "FLA",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 27.05
+    },
+    {
+        "Name": "Javier Valentin",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 82.08,
+        "Age": 31.45
+    },
+    {
+        "Name": "Chad Moeller",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 32.03
+    },
+    {
+        "Name": "David Ross",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 29.95
+    },
+    {
+        "Name": "Joey Votto",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 23.47
+    },
+    {
+        "Name": "Scott Hatteberg",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 37.21
+    },
+    {
+        "Name": "Brandon Phillips",
+        "Team": "CIN",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 79.09,
+        "Age": 25.67
+    },
+    {
+        "Name": "Juan Castro",
+        "Team": "CIN",
+        "Position": "Ala-pivot",
+        "Heigth": 190.75,
+        "Weigth": 83.36,
+        "Age": 34.69
+    },
+    {
+        "Name": "Alex Gonzalez",
+        "Team": "CIN",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 86.36,
+        "Age": 30.04
+    },
+    {
+        "Name": "Mark Bellhorn",
+        "Team": "CIN",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 32.52
+    },
+    {
+        "Name": "Edwin Encarnacion",
+        "Team": "CIN",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 83.36,
+        "Age": 24.15
+    },
+    {
+        "Name": "Jeff Keppinger",
+        "Team": "CIN",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 26.86
+    },
+    {
+        "Name": "Norris Hopper",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 185.37,
+        "Weigth": 85.5,
+        "Age": 27.94
+    },
+    {
+        "Name": "Chris Denorfia",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 26.63
+    },
+    {
+        "Name": "Adam Dunn",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 209.55,
+        "Weigth": 102.6,
+        "Age": 27.31
+    },
+    {
+        "Name": "Bubba Crosby",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 79.09,
+        "Age": 30.55
+    },
+    {
+        "Name": "Jeff Conine",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 94.05,
+        "Age": 40.68
+    },
+    {
+        "Name": "Ken Griffey Jr.",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 37.27
+    },
+    {
+        "Name": "Josh Hamilton",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 25.78
+    },
+    {
+        "Name": "Ryan Freel",
+        "Team": "CIN",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 30.98
+    },
+    {
+        "Name": "Kyle Lohse",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 85.93,
+        "Age": 28.41
+    },
+    {
+        "Name": "Bronson Arroyo",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 81.23,
+        "Age": 30.01
+    },
+    {
+        "Name": "Eric Milton",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 88.92,
+        "Age": 31.57
+    },
+    {
+        "Name": "Aaron Harang",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 102.6,
+        "Age": 28.81
+    },
+    {
+        "Name": "Kirk Saarloos",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 94.05,
+        "Age": 27.77
+    },
+    {
+        "Name": "Elizardo Ramirez",
+        "Team": "CIN",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 24.09
+    },
+    {
+        "Name": "Todd Coffey",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 98.33,
+        "Age": 26.47
+    },
+    {
+        "Name": "Brian Shackelford",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 83.36,
+        "Age": 30.5
+    },
+    {
+        "Name": "Bill Bray",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 23.74
+    },
+    {
+        "Name": "Bobby Livingston",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 24.49
+    },
+    {
+        "Name": "Matt Belisle",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 26.73
+    },
+    {
+        "Name": "Gary Majewski",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 27.01
+    },
+    {
+        "Name": "Mike Stanton",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 39.75
+    },
+    {
+        "Name": "Brad Salmon",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 27.16
+    },
+    {
+        "Name": "Jared Burton",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 25.74
+    },
+    {
+        "Name": "David Weathers",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 98.33,
+        "Age": 37.43
+    },
+    {
+        "Name": "Rheal Cormier",
+        "Team": "CIN",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 83.36,
+        "Age": 39.85
+    },
+    {
+        "Name": "Yorvit Torrealba",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 28.62
+    },
+    {
+        "Name": "Chris Iannetta",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 83.36,
+        "Age": 23.9
+    },
+    {
+        "Name": "Alvin Colina",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.35,
+        "Age": 25.18
+    },
+    {
+        "Name": "Todd Helton",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 87.21,
+        "Age": 33.53
+    },
+    {
+        "Name": "Jamey Carroll",
+        "Team": "COL",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 72.67,
+        "Age": 33.03
+    },
+    {
+        "Name": "Kaz Matsui",
+        "Team": "COL",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 79.09,
+        "Age": 31.35
+    },
+    {
+        "Name": "Troy Tulowitzki",
+        "Team": "COL",
+        "Position": "Ala-pivot",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 22.39
+    },
+    {
+        "Name": "Clint Barmes",
+        "Team": "COL",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 27.99
+    },
+    {
+        "Name": "Garrett Atkins",
+        "Team": "COL",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 27.22
+    },
+    {
+        "Name": "Ryan Spilborghs",
+        "Team": "COL",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 27.49
+    },
+    {
+        "Name": "Cory Sullivan",
+        "Team": "COL",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 27.53
+    },
+    {
+        "Name": "Jeff Salazar",
+        "Team": "COL",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 26.26
+    },
+    {
+        "Name": "Willy Taveras",
+        "Team": "COL",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 68.4,
+        "Age": 25.18
+    },
+    {
+        "Name": "Matt Holliday",
+        "Team": "COL",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 100.46,
+        "Age": 27.12
+    },
+    {
+        "Name": "Brad Hawpe",
+        "Team": "COL",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 27.69
+    },
+    {
+        "Name": "Jeff Baker",
+        "Team": "COL",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 25.69
+    },
+    {
+        "Name": "Javy Lopez",
+        "Team": "COL",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 95.76,
+        "Age": 36.32
+    },
+    {
+        "Name": "Byung-Hyun Kim",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 185.37,
+        "Weigth": 76.95,
+        "Age": 28.11
+    },
+    {
+        "Name": "Rodrigo Lopez",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 31.21
+    },
+    {
+        "Name": "Brian Lawrence",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 84.22,
+        "Age": 30.8
+    },
+    {
+        "Name": "Josh Fogg",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 86.78,
+        "Age": 30.21
+    },
+    {
+        "Name": "Aaron Cook",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 28.06
+    },
+    {
+        "Name": "Denny Bautista",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 72.67,
+        "Age": 26.52
+    },
+    {
+        "Name": "Ubaldo Jimenez",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 23.1
+    },
+    {
+        "Name": "Jason Hirsh",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 214.93,
+        "Weigth": 106.88,
+        "Age": 25.02
+    },
+    {
+        "Name": "Jeff Francis",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 85.5,
+        "Age": 26.14
+    },
+    {
+        "Name": "Taylor Buchholz",
+        "Team": "COL",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 25.38
+    },
+    {
+        "Name": "Ryan Speier",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 212.24,
+        "Weigth": 85.5,
+        "Age": 27.6
+    },
+    {
+        "Name": "Ramon Ramirez",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 25.5
+    },
+    {
+        "Name": "Manny Corpas",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 72.67,
+        "Age": 24.24
+    },
+    {
+        "Name": "Juan Morillo",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 23.32
+    },
+    {
+        "Name": "Brian Fuentes",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 31.56
+    },
+    {
+        "Name": "LaTroy Hawkins",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 91.91,
+        "Age": 34.19
+    },
+    {
+        "Name": "Tom Martin",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 88.06,
+        "Age": 36.78
+    },
+    {
+        "Name": "Jeremy Affeldt",
+        "Team": "COL",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 91.91,
+        "Age": 27.73
+    },
+    {
+        "Name": "Paul Lo Duca",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 79.09,
+        "Age": 34.88
+    },
+    {
+        "Name": "Ramon Castro",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 100.46,
+        "Age": 31.0
+    },
+    {
+        "Name": "Julio Franco",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 80.37,
+        "Age": 48.52
+    },
+    {
+        "Name": "Carlos Delgado",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 98.33,
+        "Age": 34.68
+    },
+    {
+        "Name": "Jose Valentin",
+        "Team": "NYM",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 83.36,
+        "Age": 37.38
+    },
+    {
+        "Name": "Anderson Hernandez",
+        "Team": "NYM",
+        "Position": "Aler",
+        "Heigth": 185.37,
+        "Weigth": 71.82,
+        "Age": 24.33
+    },
+    {
+        "Name": "Damion Easley",
+        "Team": "NYM",
+        "Position": "Ala-pivot",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 37.3
+    },
+    {
+        "Name": "Jose Reyes",
+        "Team": "NYM",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 68.4,
+        "Age": 23.72
+    },
+    {
+        "Name": "David Wright",
+        "Team": "NYM",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 24.19
+    },
+    {
+        "Name": "Ben Johnson",
+        "Team": "NYM",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 25.7
+    },
+    {
+        "Name": "Endy Chavez",
+        "Team": "NYM",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 80.8,
+        "Age": 29.06
+    },
+    {
+        "Name": "David Newhan",
+        "Team": "NYM",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 33.48
+    },
+    {
+        "Name": "Carlos Beltran",
+        "Team": "NYM",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 29.85
+    },
+    {
+        "Name": "Shawn Green",
+        "Team": "NYM",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 34.3
+    },
+    {
+        "Name": "Moises Alou",
+        "Team": "NYM",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 40.66
+    },
+    {
+        "Name": "Lastings Milledge",
+        "Team": "NYM",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 79.94,
+        "Age": 21.9
+    },
+    {
+        "Name": "Alay Soler",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 102.6,
+        "Age": 27.39
+    },
+    {
+        "Name": "Mike Pelfrey",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 81.23,
+        "Age": 23.13
+    },
+    {
+        "Name": "Pedro Martinez",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 35.35
+    },
+    {
+        "Name": "Tom Glavine",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 40.93
+    },
+    {
+        "Name": "Chan Ho Park",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 33.67
+    },
+    {
+        "Name": "Orlando Hernandez",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 37.39
+    },
+    {
+        "Name": "Dave Williams",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 93.62,
+        "Age": 27.97
+    },
+    {
+        "Name": "Oliver Perez",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 25.54
+    },
+    {
+        "Name": "John Maine",
+        "Team": "NYM",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 82.51,
+        "Age": 25.81
+    },
+    {
+        "Name": "Marcos Carvajal",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 74.81,
+        "Age": 22.53
+    },
+    {
+        "Name": "Ambiorix Burgos",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 22.86
+    },
+    {
+        "Name": "Jason Vargas",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 91.91,
+        "Age": 24.07
+    },
+    {
+        "Name": "Jon Adkins",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 89.78,
+        "Age": 29.5
+    },
+    {
+        "Name": "Juan Padilla",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 30.03
+    },
+    {
+        "Name": "Duaner Sanchez",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 27.38
+    },
+    {
+        "Name": "Pedro Feliciano",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 79.09,
+        "Age": 30.51
+    },
+    {
+        "Name": "Aaron Heilman",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 28.3
+    },
+    {
+        "Name": "Jorge Sosa",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 72.67,
+        "Age": 29.84
+    },
+    {
+        "Name": "Scott Schoeneweis",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 83.36,
+        "Age": 33.41
+    },
+    {
+        "Name": "Guillermo Mota",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 87.64,
+        "Age": 33.6
+    },
+    {
+        "Name": "Billy Wagner",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 83.36,
+        "Age": 35.6
+    },
+    {
+        "Name": "Philip Humber",
+        "Team": "NYM",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 89.78,
+        "Age": 24.19
+    },
+    {
+        "Name": "Brad Ausmus",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 37.88
+    },
+    {
+        "Name": "Humberto Quintero",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 27.56
+    },
+    {
+        "Name": "Hector Gimenez",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 24.42
+    },
+    {
+        "Name": "Lance Berkman",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 94.05,
+        "Age": 31.05
+    },
+    {
+        "Name": "Mike Lamb",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 31.56
+    },
+    {
+        "Name": "Mark Loretta",
+        "Team": "HOU",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 79.52,
+        "Age": 35.55
+    },
+    {
+        "Name": "Craig Biggio",
+        "Team": "HOU",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 79.09,
+        "Age": 41.21
+    },
+    {
+        "Name": "Brooks Conrad",
+        "Team": "HOU",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 27.12
+    },
+    {
+        "Name": "Chris Burke",
+        "Team": "HOU",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 26.97
+    },
+    {
+        "Name": "Eric Bruntlett",
+        "Team": "HOU",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 28.92
+    },
+    {
+        "Name": "Adam Everett",
+        "Team": "HOU",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 30.06
+    },
+    {
+        "Name": "Morgan Ensberg",
+        "Team": "HOU",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 31.51
+    },
+    {
+        "Name": "Carlos Lee",
+        "Team": "HOU",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 102.6,
+        "Age": 30.69
+    },
+    {
+        "Name": "Jason Lane",
+        "Team": "HOU",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 30.19
+    },
+    {
+        "Name": "Orlando Palmeiro",
+        "Team": "HOU",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 38.11
+    },
+    {
+        "Name": "Luke Scott",
+        "Team": "HOU",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 28.68
+    },
+    {
+        "Name": "Charlton Jimerson",
+        "Team": "HOU",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 27.44
+    },
+    {
+        "Name": "Fernando Nieve",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 83.36,
+        "Age": 24.63
+    },
+    {
+        "Name": "Wandy Rodriguez",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 68.4,
+        "Age": 28.11
+    },
+    {
+        "Name": "Brandon Backe",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 28.9
+    },
+    {
+        "Name": "Matt Albers",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 24.11
+    },
+    {
+        "Name": "Woody Williams",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 40.53
+    },
+    {
+        "Name": "Roy Oswalt",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 29.5
+    },
+    {
+        "Name": "Jason Jennings",
+        "Team": "HOU",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 104.74,
+        "Age": 28.62
+    },
+    {
+        "Name": "Miguel Asencio",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 26.42
+    },
+    {
+        "Name": "Brad Lidge",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 89.78,
+        "Age": 30.18
+    },
+    {
+        "Name": "Trever Miller",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 33.75
+    },
+    {
+        "Name": "David Borkowski",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 30.06
+    },
+    {
+        "Name": "Dan Wheeler",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.91,
+        "Age": 29.22
+    },
+    {
+        "Name": "Paul Estrada",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 24.47
+    },
+    {
+        "Name": "Lincoln Holdzkom",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 102.6,
+        "Age": 24.94
+    },
+    {
+        "Name": "Chris Sampson",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 28.77
+    },
+    {
+        "Name": "Chad Qualls",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 28.54
+    },
+    {
+        "Name": "Ezequiel Astacio",
+        "Team": "HOU",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 66.69,
+        "Age": 27.32
+    },
+    {
+        "Name": "Mike Lieberthal",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 35.12
+    },
+    {
+        "Name": "Russell Martin",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 86.36,
+        "Age": 24.04
+    },
+    {
+        "Name": "Olmedo Saenz",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 94.48,
+        "Age": 36.39
+    },
+    {
+        "Name": "James Loney",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 22.81
+    },
+    {
+        "Name": "Nomar Garciaparra",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 33.6
+    },
+    {
+        "Name": "Jeff Kent",
+        "Team": "LA",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 89.78,
+        "Age": 38.98
+    },
+    {
+        "Name": "Ramon Martinez",
+        "Team": "LA",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 34.39
+    },
+    {
+        "Name": "Marlon Anderson",
+        "Team": "LA",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 33.15
+    },
+    {
+        "Name": "Rafael Furcal",
+        "Team": "LA",
+        "Position": "Ala-pivot",
+        "Heigth": 188.06,
+        "Weigth": 70.54,
+        "Age": 29.35
+    },
+    {
+        "Name": "Wilson Betemit",
+        "Team": "LA",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 26.59
+    },
+    {
+        "Name": "Andy LaRoche",
+        "Team": "LA",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 79.09,
+        "Age": 23.46
+    },
+    {
+        "Name": "Matt Kemp",
+        "Team": "LA",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 22.43
+    },
+    {
+        "Name": "Andre Ethier",
+        "Team": "LA",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 88.92,
+        "Age": 24.89
+    },
+    {
+        "Name": "Delwyn Young",
+        "Team": "LA",
+        "Position": "Escorta",
+        "Heigth": 182.68,
+        "Weigth": 89.35,
+        "Age": 24.67
+    },
+    {
+        "Name": "Jason Repko",
+        "Team": "LA",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 74.81,
+        "Age": 26.17
+    },
+    {
+        "Name": "Juan Pierre",
+        "Team": "LA",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 29.54
+    },
+    {
+        "Name": "Luis Gonzalez",
+        "Team": "LA",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 39.49
+    },
+    {
+        "Name": "Jason Schmidt",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 87.64,
+        "Age": 34.08
+    },
+    {
+        "Name": "Randy Wolf",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 30.52
+    },
+    {
+        "Name": "Brad Penny",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 106.88,
+        "Age": 28.77
+    },
+    {
+        "Name": "Derek Lowe",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 89.78,
+        "Age": 33.75
+    },
+    {
+        "Name": "Mark Hendrickson",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 217.6,
+        "Weigth": 98.33,
+        "Age": 32.69
+    },
+    {
+        "Name": "Chad Billingsley",
+        "Team": "LA",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 104.31,
+        "Age": 22.59
+    },
+    {
+        "Name": "Takashi Saito",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 86.36,
+        "Age": 37.04
+    },
+    {
+        "Name": "Jonathan Broxton",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 102.6,
+        "Age": 22.7
+    },
+    {
+        "Name": "Hong-Chih Kuo",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 25.6
+    },
+    {
+        "Name": "Eric Stults",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 91.91,
+        "Age": 27.23
+    },
+    {
+        "Name": "Chin-Hui Tsao",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 75.67,
+        "Age": 25.74
+    },
+    {
+        "Name": "Tim Hamulack",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 89.78,
+        "Age": 30.29
+    },
+    {
+        "Name": "Yhency Brazoban",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 72.67,
+        "Age": 26.72
+    },
+    {
+        "Name": "Brett Tomko",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 91.91,
+        "Age": 33.9
+    },
+    {
+        "Name": "Joe Beimel",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 92.77,
+        "Age": 29.86
+    },
+    {
+        "Name": "Elmer Dessens",
+        "Team": "LA",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 84.64,
+        "Age": 36.13
+    },
+    {
+        "Name": "Ryan Budde",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 85.5,
+        "Age": 27.54
+    },
+    {
+        "Name": "Rod Barajas",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 31.49
+    },
+    {
+        "Name": "Carlos Ruiz",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 28.1
+    },
+    {
+        "Name": "Chris Coste",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 34.07
+    },
+    {
+        "Name": "Ryan Howard",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 27.28
+    },
+    {
+        "Name": "Wes Helms",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 98.75,
+        "Age": 30.8
+    },
+    {
+        "Name": "Chase Utley",
+        "Team": "PHI",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 78.23,
+        "Age": 28.2
+    },
+    {
+        "Name": "Danny Sandoval",
+        "Team": "PHI",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 82.08,
+        "Age": 27.9
+    },
+    {
+        "Name": "Jimmy Rollins",
+        "Team": "PHI",
+        "Position": "Ala-pivot",
+        "Heigth": 182.68,
+        "Weigth": 71.39,
+        "Age": 28.26
+    },
+    {
+        "Name": "Abraham Nu?ez",
+        "Team": "PHI",
+        "Position": "Aler",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 30.96
+    },
+    {
+        "Name": "Michael Bourn",
+        "Team": "PHI",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 24.18
+    },
+    {
+        "Name": "Chris Roberson",
+        "Team": "PHI",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 27.52
+    },
+    {
+        "Name": "Jayson Werth",
+        "Team": "PHI",
+        "Position": "Escorta",
+        "Heigth": 206.86,
+        "Weigth": 91.91,
+        "Age": 27.78
+    },
+    {
+        "Name": "Shane Victorino",
+        "Team": "PHI",
+        "Position": "Escorta",
+        "Heigth": 185.37,
+        "Weigth": 68.4,
+        "Age": 26.25
+    },
+    {
+        "Name": "Aaron Rowand",
+        "Team": "PHI",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 29.5
+    },
+    {
+        "Name": "Pat Burrell",
+        "Team": "PHI",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 95.33,
+        "Age": 30.39
+    },
+    {
+        "Name": "Greg Dobbs",
+        "Team": "PHI",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 28.66
+    },
+    {
+        "Name": "Cole Hamels",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 74.81,
+        "Age": 23.18
+    },
+    {
+        "Name": "Alfredo Simon",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 72.67,
+        "Age": 25.81
+    },
+    {
+        "Name": "Scott Mathieson",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 23.01
+    },
+    {
+        "Name": "Freddy Garcia",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 102.6,
+        "Age": 31.72
+    },
+    {
+        "Name": "Jamie Moyer",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 44.28
+    },
+    {
+        "Name": "Jon Lieber",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 98.33,
+        "Age": 36.91
+    },
+    {
+        "Name": "Brett Myers",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 95.33,
+        "Age": 26.54
+    },
+    {
+        "Name": "Adam Eaton",
+        "Team": "PHI",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 83.79,
+        "Age": 29.27
+    },
+    {
+        "Name": "Geoff Geary",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 71.39,
+        "Age": 30.51
+    },
+    {
+        "Name": "Clay Condrey",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 31.28
+    },
+    {
+        "Name": "Ryan Madson",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 81.23,
+        "Age": 26.51
+    },
+    {
+        "Name": "Antonio Alfonseca",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 106.88,
+        "Age": 34.87
+    },
+    {
+        "Name": "Tom Gordon",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 188.06,
+        "Weigth": 81.23,
+        "Age": 39.28
+    },
+    {
+        "Name": "Brian Sanches",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 28.56
+    },
+    {
+        "Name": "Jim Ed Warden",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 212.24,
+        "Weigth": 81.23,
+        "Age": 27.82
+    },
+    {
+        "Name": "Anderson Garcia",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 72.67,
+        "Age": 25.94
+    },
+    {
+        "Name": "Eude Brito",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 68.4,
+        "Age": 28.53
+    },
+    {
+        "Name": "Fabio Castro",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 182.68,
+        "Weigth": 64.12,
+        "Age": 22.11
+    },
+    {
+        "Name": "Matt Smith",
+        "Team": "PHI",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 96.19,
+        "Age": 27.71
+    },
+    {
+        "Name": "Damian Miller",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 37.38
+    },
+    {
+        "Name": "Johnny Estrada",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 89.35,
+        "Age": 30.67
+    },
+    {
+        "Name": "Mike Rivera",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 30.48
+    },
+    {
+        "Name": "J.D. Closser",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 188.06,
+        "Weigth": 75.24,
+        "Age": 27.12
+    },
+    {
+        "Name": "Prince Fielder",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 111.15,
+        "Age": 22.81
+    },
+    {
+        "Name": "Rickie Weeks",
+        "Team": "MLW",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 83.36,
+        "Age": 24.46
+    },
+    {
+        "Name": "Tony Graffanino",
+        "Team": "MLW",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 34.73
+    },
+    {
+        "Name": "Craig Counsell",
+        "Team": "MLW",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 78.66,
+        "Age": 36.53
+    },
+    {
+        "Name": "J.J. Hardy",
+        "Team": "MLW",
+        "Position": "Ala-pivot",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 24.53
+    },
+    {
+        "Name": "Bill Hall",
+        "Team": "MLW",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 83.36,
+        "Age": 27.17
+    },
+    {
+        "Name": "Vinny Rottino",
+        "Team": "MLW",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 83.36,
+        "Age": 26.9
+    },
+    {
+        "Name": "Corey Koskie",
+        "Team": "MLW",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 93.62,
+        "Age": 33.67
+    },
+    {
+        "Name": "Kevin Mench",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 96.19,
+        "Age": 29.14
+    },
+    {
+        "Name": "Geoff Jenkins",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 90.63,
+        "Age": 32.61
+    },
+    {
+        "Name": "Brady Clark",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 86.36,
+        "Age": 33.87
+    },
+    {
+        "Name": "Tony Gwynn Jr.",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 24.41
+    },
+    {
+        "Name": "Corey Hart",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 209.55,
+        "Weigth": 85.5,
+        "Age": 24.94
+    },
+    {
+        "Name": "Gabe Gross",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 89.35,
+        "Age": 27.36
+    },
+    {
+        "Name": "Laynce Nix",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 26.33
+    },
+    {
+        "Name": "Drew Anderson",
+        "Team": "MLW",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 25.72
+    },
+    {
+        "Name": "Claudio Vargas",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 97.47,
+        "Age": 28.7
+    },
+    {
+        "Name": "Chris Capuano",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 28.53
+    },
+    {
+        "Name": "Ben Hendrickson",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 81.23,
+        "Age": 26.07
+    },
+    {
+        "Name": "Dave Bush",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 90.63,
+        "Age": 27.31
+    },
+    {
+        "Name": "Carlos Villanueva",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 23.26
+    },
+    {
+        "Name": "Ben Sheets",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 93.19,
+        "Age": 28.62
+    },
+    {
+        "Name": "Jeff Suppan",
+        "Team": "MLW",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 32.16
+    },
+    {
+        "Name": "Brian Shouse",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 38.43
+    },
+    {
+        "Name": "Francisco Cordero",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 100.46,
+        "Age": 31.81
+    },
+    {
+        "Name": "Derrick Turnbow",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 29.1
+    },
+    {
+        "Name": "Matt Wise",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 31.28
+    },
+    {
+        "Name": "Grant Balfour",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 80.37,
+        "Age": 29.17
+    },
+    {
+        "Name": "Dennis Sarfate",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 89.78,
+        "Age": 25.89
+    },
+    {
+        "Name": "Jose Capellan",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 100.46,
+        "Age": 26.13
+    },
+    {
+        "Name": "Greg Aquino",
+        "Team": "MLW",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 80.37,
+        "Age": 29.13
+    },
+    {
+        "Name": "Josh Bard",
+        "Team": "SD",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 28.92
+    },
+    {
+        "Name": "Rob Bowen",
+        "Team": "SD",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 92.34,
+        "Age": 26.01
+    },
+    {
+        "Name": "Adrian Gonzalez",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 24.81
+    },
+    {
+        "Name": "Marcus Giles",
+        "Team": "SD",
+        "Position": "Aler",
+        "Heigth": 182.68,
+        "Weigth": 76.95,
+        "Age": 28.79
+    },
+    {
+        "Name": "Todd Walker",
+        "Team": "SD",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 33.77
+    },
+    {
+        "Name": "Geoff Blum",
+        "Team": "SD",
+        "Position": "Ala-pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 33.85
+    },
+    {
+        "Name": "Khalil Greene",
+        "Team": "SD",
+        "Position": "Ala-pivot",
+        "Heigth": 190.75,
+        "Weigth": 89.78,
+        "Age": 27.36
+    },
+    {
+        "Name": "Paul McAnulty",
+        "Team": "SD",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 94.05,
+        "Age": 26.01
+    },
+    {
+        "Name": "Terrmel Sledge",
+        "Team": "SD",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 29.95
+    },
+    {
+        "Name": "Jack Cust",
+        "Team": "SD",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 98.75,
+        "Age": 28.12
+    },
+    {
+        "Name": "Jose Cruz Jr.",
+        "Team": "SD",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 32.87
+    },
+    {
+        "Name": "Russell Branyan",
+        "Team": "SD",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 83.36,
+        "Age": 31.2
+    },
+    {
+        "Name": "Mike Cameron",
+        "Team": "SD",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 34.14
+    },
+    {
+        "Name": "Brian Giles",
+        "Team": "SD",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 87.64,
+        "Age": 36.11
+    },
+    {
+        "Name": "Kevin Kouzmanoff",
+        "Team": "SD",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 25.6
+    },
+    {
+        "Name": "Mike Thompson",
+        "Team": "SD",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 85.5,
+        "Age": 26.31
+    },
+    {
+        "Name": "Clay Hensley",
+        "Team": "SD",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 27.5
+    },
+    {
+        "Name": "Chris Young",
+        "Team": "SD",
+        "Position": "Base",
+        "Heigth": 220.29,
+        "Weigth": 106.88,
+        "Age": 27.77
+    },
+    {
+        "Name": "Greg Maddux",
+        "Team": "SD",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 79.09,
+        "Age": 40.88
+    },
+    {
+        "Name": "Jake Peavy",
+        "Team": "SD",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 25.75
+    },
+    {
+        "Name": "Scott Cassidy",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 72.67,
+        "Age": 31.41
+    },
+    {
+        "Name": "Scott Strickland",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 76.95,
+        "Age": 30.84
+    },
+    {
+        "Name": "Scott Linebrink",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 88.92,
+        "Age": 30.57
+    },
+    {
+        "Name": "Doug Brocail",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 100.46,
+        "Age": 39.79
+    },
+    {
+        "Name": "Trevor Hoffman",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 91.91,
+        "Age": 39.38
+    },
+    {
+        "Name": "Heath Bell",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 104.31,
+        "Age": 29.42
+    },
+    {
+        "Name": "Royce Ring",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 94.05,
+        "Age": 26.19
+    },
+    {
+        "Name": "Cla Meredith",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 23.74
+    },
+    {
+        "Name": "Andrew Brown",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 98.33,
+        "Age": 26.03
+    },
+    {
+        "Name": "Mike Adams",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 81.23,
+        "Age": 28.59
+    },
+    {
+        "Name": "Justin Hampson",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 26.77
+    },
+    {
+        "Name": "Kevin Cameron",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 27.21
+    },
+    {
+        "Name": "Ryan Ketchner",
+        "Team": "SD",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 24.87
+    },
+    {
+        "Name": "Brian Schneider",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 83.79,
+        "Age": 30.26
+    },
+    {
+        "Name": "Jesus Flores",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 76.95,
+        "Age": 22.34
+    },
+    {
+        "Name": "Larry Broadway",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 98.33,
+        "Age": 26.2
+    },
+    {
+        "Name": "Nick Johnson",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 95.76,
+        "Age": 28.45
+    },
+    {
+        "Name": "Bernie Castro",
+        "Team": "WAS",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 68.4,
+        "Age": 27.63
+    },
+    {
+        "Name": "Josh Wilson",
+        "Team": "WAS",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 76.09,
+        "Age": 25.93
+    },
+    {
+        "Name": "Cristian Guzman",
+        "Team": "WAS",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 28.94
+    },
+    {
+        "Name": "Felipe Lopez",
+        "Team": "WAS",
+        "Position": "Ala-pivot",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 26.8
+    },
+    {
+        "Name": "Ryan Zimmerman",
+        "Team": "WAS",
+        "Position": "Aler",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 22.42
+    },
+    {
+        "Name": "Nook Logan",
+        "Team": "WAS",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 27.26
+    },
+    {
+        "Name": "Ryan Church",
+        "Team": "WAS",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 28.38
+    },
+    {
+        "Name": "Kory Casto",
+        "Team": "WAS",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 25.23
+    },
+    {
+        "Name": "Mike Restovich",
+        "Team": "WAS",
+        "Position": "Escorta",
+        "Heigth": 204.17,
+        "Weigth": 109.87,
+        "Age": 28.16
+    },
+    {
+        "Name": "Alex Escobar",
+        "Team": "WAS",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 28.48
+    },
+    {
+        "Name": "Austin Kearns",
+        "Team": "WAS",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 26.78
+    },
+    {
+        "Name": "Chris Snelling",
+        "Team": "WAS",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 70.54,
+        "Age": 25.24
+    },
+    {
+        "Name": "Billy Traber",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 87.64,
+        "Age": 27.45
+    },
+    {
+        "Name": "Tim Redding",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 29.05
+    },
+    {
+        "Name": "John Patterson",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 88.92,
+        "Age": 29.08
+    },
+    {
+        "Name": "Shawn Hill",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 25.84
+    },
+    {
+        "Name": "Joel Hanrahan",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 25.4
+    },
+    {
+        "Name": "Mike O'Connor",
+        "Team": "WAS",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 72.67,
+        "Age": 26.54
+    },
+    {
+        "Name": "Emiliano Fruto",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 100.46,
+        "Age": 22.73
+    },
+    {
+        "Name": "Chris Schroder",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 28.53
+    },
+    {
+        "Name": "Brett Campbell",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 25.37
+    },
+    {
+        "Name": "Beltran Perez",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 25.35
+    },
+    {
+        "Name": "Levale Speigner",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 72.67,
+        "Age": 26.43
+    },
+    {
+        "Name": "Jason Bergmann",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 81.23,
+        "Age": 25.43
+    },
+    {
+        "Name": "Saul Rivera",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 64.12,
+        "Age": 29.23
+    },
+    {
+        "Name": "Chris Booker",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 98.33,
+        "Age": 30.22
+    },
+    {
+        "Name": "Micah Bowie",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 86.78,
+        "Age": 32.3
+    },
+    {
+        "Name": "Jon Rauch",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 222.99,
+        "Weigth": 111.15,
+        "Age": 28.42
+    },
+    {
+        "Name": "Jerome Williams",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 105.16,
+        "Age": 25.24
+    },
+    {
+        "Name": "Luis Ayala",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 79.52,
+        "Age": 29.13
+    },
+    {
+        "Name": "Ryan Wagner",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 89.78,
+        "Age": 24.63
+    },
+    {
+        "Name": "Chad Cordero",
+        "Team": "WAS",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 84.64,
+        "Age": 24.95
+    },
+    {
+        "Name": "Humberto Cota",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 89.78,
+        "Age": 28.06
+    },
+    {
+        "Name": "Ronny Paulino",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 25.86
+    },
+    {
+        "Name": "Adam LaRoche",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 76.95,
+        "Age": 27.32
+    },
+    {
+        "Name": "Ryan Doumit",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 85.5,
+        "Age": 25.91
+    },
+    {
+        "Name": "Brad Eldred",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 104.74,
+        "Age": 26.63
+    },
+    {
+        "Name": "Jose Castillo",
+        "Team": "PIT",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 85.5,
+        "Age": 25.95
+    },
+    {
+        "Name": "Jack Wilson",
+        "Team": "PIT",
+        "Position": "Ala-pivot",
+        "Heigth": 193.42,
+        "Weigth": 82.08,
+        "Age": 29.17
+    },
+    {
+        "Name": "Freddy Sanchez",
+        "Team": "PIT",
+        "Position": "Aler",
+        "Heigth": 188.06,
+        "Weigth": 82.08,
+        "Age": 29.19
+    },
+    {
+        "Name": "Jason Bay",
+        "Team": "PIT",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 28.44
+    },
+    {
+        "Name": "Jose Bautista",
+        "Team": "PIT",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 82.08,
+        "Age": 26.36
+    },
+    {
+        "Name": "Xavier Nady",
+        "Team": "PIT",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 87.64,
+        "Age": 28.29
+    },
+    {
+        "Name": "Jody Gerut",
+        "Team": "PIT",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 29.45
+    },
+    {
+        "Name": "Nate McLouth",
+        "Team": "PIT",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 79.52,
+        "Age": 25.34
+    },
+    {
+        "Name": "Chris Duffy",
+        "Team": "PIT",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 72.67,
+        "Age": 26.86
+    },
+    {
+        "Name": "Rajai Davis",
+        "Team": "PIT",
+        "Position": "Escorta",
+        "Heigth": 190.75,
+        "Weigth": 84.22,
+        "Age": 26.36
+    },
+    {
+        "Name": "Shane Youman",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 93.62,
+        "Age": 27.39
+    },
+    {
+        "Name": "Yoslan Herrera",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 25.84
+    },
+    {
+        "Name": "Josh Shortslef",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 94.05,
+        "Age": 25.08
+    },
+    {
+        "Name": "Zach Duke",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 88.49,
+        "Age": 23.87
+    },
+    {
+        "Name": "Paul Maholm",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 96.19,
+        "Age": 24.68
+    },
+    {
+        "Name": "Tom Gorzelanny",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 88.49,
+        "Age": 24.64
+    },
+    {
+        "Name": "Shawn Chacon",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 90.63,
+        "Age": 29.19
+    },
+    {
+        "Name": "Tony Armas Jr.",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 28.84
+    },
+    {
+        "Name": "Ian Snell",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 72.67,
+        "Age": 25.33
+    },
+    {
+        "Name": "Sean Burnett",
+        "Team": "PIT",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 81.23,
+        "Age": 24.45
+    },
+    {
+        "Name": "John Grabow",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 28.32
+    },
+    {
+        "Name": "Marty McLeary",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 98.33,
+        "Age": 32.34
+    },
+    {
+        "Name": "Salomon Torres",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 190.75,
+        "Weigth": 89.78,
+        "Age": 34.97
+    },
+    {
+        "Name": "Damaso Marte",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 32.04
+    },
+    {
+        "Name": "Matt Capps",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 101.75,
+        "Age": 23.49
+    },
+    {
+        "Name": "Josh Sharpless",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 100.04,
+        "Age": 26.09
+    },
+    {
+        "Name": "Bryan Bullington",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 94.91,
+        "Age": 26.41
+    },
+    {
+        "Name": "Jonah Bayliss",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 85.5,
+        "Age": 26.55
+    },
+    {
+        "Name": "Brian Rogers",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 81.23,
+        "Age": 24.62
+    },
+    {
+        "Name": "Juan Perez",
+        "Team": "PIT",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 72.67,
+        "Age": 28.49
+    },
+    {
+        "Name": "Bengie Molina",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 94.05,
+        "Age": 32.61
+    },
+    {
+        "Name": "Eliezer Alfonzo",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 95.33,
+        "Age": 28.06
+    },
+    {
+        "Name": "Lance Niekro",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 28.08
+    },
+    {
+        "Name": "Mark Sweeney",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 37.34
+    },
+    {
+        "Name": "Ray Durham",
+        "Team": "SF",
+        "Position": "Aler",
+        "Heigth": 182.68,
+        "Weigth": 83.79,
+        "Age": 35.25
+    },
+    {
+        "Name": "Kevin Frandsen",
+        "Team": "SF",
+        "Position": "Aler",
+        "Heigth": 193.42,
+        "Weigth": 74.81,
+        "Age": 24.77
+    },
+    {
+        "Name": "Omar Vizquel",
+        "Team": "SF",
+        "Position": "Ala-pivot",
+        "Heigth": 185.37,
+        "Weigth": 74.81,
+        "Age": 39.85
+    },
+    {
+        "Name": "Rich Aurilia",
+        "Team": "SF",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 80.8,
+        "Age": 35.49
+    },
+    {
+        "Name": "Pedro Feliz",
+        "Team": "SF",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 31.84
+    },
+    {
+        "Name": "Todd Linden",
+        "Team": "SF",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 89.78,
+        "Age": 26.67
+    },
+    {
+        "Name": "Dave Roberts",
+        "Team": "SF",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 34.75
+    },
+    {
+        "Name": "Jason Ellison",
+        "Team": "SF",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 76.95,
+        "Age": 28.91
+    },
+    {
+        "Name": "Randy Winn",
+        "Team": "SF",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 84.22,
+        "Age": 32.73
+    },
+    {
+        "Name": "Ryan Klesko",
+        "Team": "SF",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 35.72
+    },
+    {
+        "Name": "Barry Bonds",
+        "Team": "SF",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 97.47,
+        "Age": 42.6
+    },
+    {
+        "Name": "Fred Lewis",
+        "Team": "SF",
+        "Position": "Escorta",
+        "Heigth": 198.81,
+        "Weigth": 81.23,
+        "Age": 26.22
+    },
+    {
+        "Name": "Kelyn Acosta",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 87.21,
+        "Age": 21.85
+    },
+    {
+        "Name": "Jonathan Sanchez",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 70.54,
+        "Age": 24.28
+    },
+    {
+        "Name": "Matt Cain",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 92.34,
+        "Age": 22.41
+    },
+    {
+        "Name": "Matt Morris",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 206.86,
+        "Weigth": 94.05,
+        "Age": 32.56
+    },
+    {
+        "Name": "Russ Ortiz",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 196.11,
+        "Weigth": 88.92,
+        "Age": 32.74
+    },
+    {
+        "Name": "Noah Lowry",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 89.78,
+        "Age": 26.39
+    },
+    {
+        "Name": "Barry Zito",
+        "Team": "SF",
+        "Position": "Base",
+        "Heigth": 204.17,
+        "Weigth": 91.91,
+        "Age": 28.8
+    },
+    {
+        "Name": "Vinnie Chulk",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 83.36,
+        "Age": 28.2
+    },
+    {
+        "Name": "Kevin Correia",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 26.52
+    },
+    {
+        "Name": "Steve Kline",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 91.91,
+        "Age": 34.52
+    },
+    {
+        "Name": "Armando Benitez",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 97.9,
+        "Age": 34.32
+    },
+    {
+        "Name": "Scott Munter",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 209.55,
+        "Weigth": 102.6,
+        "Age": 26.98
+    },
+    {
+        "Name": "Jack Taschner",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 88.49,
+        "Age": 28.86
+    },
+    {
+        "Name": "Brian Wilson",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 87.64,
+        "Age": 24.96
+    },
+    {
+        "Name": "Merkin Valdez",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 206.86,
+        "Weigth": 88.92,
+        "Age": 25.3
+    },
+    {
+        "Name": "Brad Hennessey",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 79.09,
+        "Age": 27.06
+    },
+    {
+        "Name": "Billy Sadler",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 81.23,
+        "Age": 25.44
+    },
+    {
+        "Name": "Pat Misch",
+        "Team": "SF",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 72.67,
+        "Age": 25.53
+    },
+    {
+        "Name": "Gary Bennett",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 193.42,
+        "Weigth": 88.92,
+        "Age": 34.87
+    },
+    {
+        "Name": "Yadier Molina",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 190.75,
+        "Weigth": 96.19,
+        "Age": 24.63
+    },
+    {
+        "Name": "John Nelson",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 27.99
+    },
+    {
+        "Name": "Albert Pujols",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 96.19,
+        "Age": 27.12
+    },
+    {
+        "Name": "Adam Kennedy",
+        "Team": "STL",
+        "Position": "Aler",
+        "Heigth": 196.11,
+        "Weigth": 79.09,
+        "Age": 31.14
+    },
+    {
+        "Name": "Aaron Miles",
+        "Team": "STL",
+        "Position": "Aler",
+        "Heigth": 180.01,
+        "Weigth": 76.95,
+        "Age": 30.21
+    },
+    {
+        "Name": "David Eckstein",
+        "Team": "STL",
+        "Position": "Ala-pivot",
+        "Heigth": 180.01,
+        "Weigth": 70.54,
+        "Age": 32.11
+    },
+    {
+        "Name": "Scott Rolen",
+        "Team": "STL",
+        "Position": "Aler",
+        "Heigth": 204.17,
+        "Weigth": 102.6,
+        "Age": 31.91
+    },
+    {
+        "Name": "Scott Spiezio",
+        "Team": "STL",
+        "Position": "Aler",
+        "Heigth": 198.81,
+        "Weigth": 94.05,
+        "Age": 34.44
+    },
+    {
+        "Name": "Jim Edmonds",
+        "Team": "STL",
+        "Position": "Escorta",
+        "Heigth": 196.11,
+        "Weigth": 90.63,
+        "Age": 36.68
+    },
+    {
+        "Name": "So Taguchi",
+        "Team": "STL",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 69.68,
+        "Age": 37.66
+    },
+    {
+        "Name": "Juan Encarnacion",
+        "Team": "STL",
+        "Position": "Escorta",
+        "Heigth": 201.5,
+        "Weigth": 91.91,
+        "Age": 30.98
+    },
+    {
+        "Name": "Skip Schumaker",
+        "Team": "STL",
+        "Position": "Escorta",
+        "Heigth": 188.06,
+        "Weigth": 74.81,
+        "Age": 27.07
+    },
+    {
+        "Name": "John Rodriguez",
+        "Team": "STL",
+        "Position": "Escorta",
+        "Heigth": 193.42,
+        "Weigth": 87.64,
+        "Age": 29.11
+    },
+    {
+        "Name": "Chris Duncan",
+        "Team": "STL",
+        "Position": "Escorta",
+        "Heigth": 206.86,
+        "Weigth": 89.78,
+        "Age": 25.82
+    },
+    {
+        "Name": "Adam Wainwright",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 212.24,
+        "Weigth": 87.64,
+        "Age": 25.5
+    },
+    {
+        "Name": "Mark Mulder",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 88.92,
+        "Age": 29.57
+    },
+    {
+        "Name": "Anthony Reyes",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 198.81,
+        "Weigth": 91.91,
+        "Age": 25.37
+    },
+    {
+        "Name": "Ryan Franklin",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 76.95,
+        "Age": 33.99
+    },
+    {
+        "Name": "Kip Wells",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 201.5,
+        "Weigth": 85.5,
+        "Age": 29.86
+    },
+    {
+        "Name": "Chris Carpenter",
+        "Team": "STL",
+        "Position": "Base",
+        "Heigth": 209.55,
+        "Weigth": 98.33,
+        "Age": 31.84
+    },
+    {
+        "Name": "Russ Springer",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 204.17,
+        "Weigth": 90.2,
+        "Age": 38.31
+    },
+    {
+        "Name": "Jason Isringhausen",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 98.33,
+        "Age": 34.48
+    },
+    {
+        "Name": "Ricardo Rincon",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 185.37,
+        "Weigth": 81.23,
+        "Age": 36.88
+    },
+    {
+        "Name": "Braden Looper",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 94.05,
+        "Age": 32.34
+    },
+    {
+        "Name": "Randy Flores",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 193.42,
+        "Weigth": 76.95,
+        "Age": 31.58
+    },
+    {
+        "Name": "Josh Hancock",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 28.89
+    },
+    {
+        "Name": "Brad Thompson",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 81.23,
+        "Age": 25.08
+    },
+    {
+        "Name": "Tyler Johnson",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 198.81,
+        "Weigth": 76.95,
+        "Age": 25.73
+    },
+    {
+        "Name": "Chris Narveson",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 87.64,
+        "Age": 25.19
+    },
+    {
+        "Name": "Randy Keisler",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 201.5,
+        "Weigth": 81.23,
+        "Age": 31.01
+    },
+    {
+        "Name": "Josh Kinney",
+        "Team": "STL",
+        "Position": "Pivot",
+        "Heigth": 196.11,
+        "Weigth": 83.36,
+        "Age": 27.9
+    }
+]
